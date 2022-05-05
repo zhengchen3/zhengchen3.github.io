@@ -8,14 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my homepage! My name is Lingwei Zhu (朱　令緯), a last-year PhD student at Robot Learning Lab, Nara Institute of Science and Technology (NAIST) under the supervision of [Takamitsu Matsubara](https://scholar.google.com/citations?user=RFDSj_0AAAAJ&hl=en). 
+Zheng Chen (陈　峥). I am currently a researcher with Osaka University.
 
-My research interest lies in developing scalable and safe reinforcement learning algorithms for realizing autonomous control of large-scale systems, e.g. industrial processes and robotics, with an theoretical emphasis on entropy regularization. 
-
-
-Currently I am receiving Japan Society for the Promotion of Science scholarship [(JSPS) DC](https://www.jsps.go.jp/english/e-pd/index.html) that has independent research grants. Prior to that, I received Japanese Goverment Scholarship (MEXT).
+My research interests include biomedical engineering, knowledge-based discovery and applications of artificial intelligence.
 
 
-Feel free to contact me via *lingwei.andrew.zhu@gmail.com*.
+Feel free to contact me via *chen.zheng.bm1@gmail.com*.
 
 ****
