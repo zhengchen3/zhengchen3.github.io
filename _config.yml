@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zheng Chen / Personal Webpage"
+title                    : "Zheng Chen"
 title_separator          : "-"
 name                     : &name "Zheng Chen"
 description              : &description "Currently a researcher with Osaka University, interested in biomedical applications of AI."
