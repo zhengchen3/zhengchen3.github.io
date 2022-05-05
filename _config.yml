@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lingwei Zhu / Personal Webpage"
+title                    : "Zheng Chen / Personal Webpage"
 title_separator          : "-"
-name                     : &name "Lingwei Zhu"
-description              : &description "I am currently a PhD candidate at Robot Learning Lab, Nara Institute of Science and Technology (NAIST), under the supervision of Takamitsu Matsubara"
+name                     : &name "Zheng Chen"
+description              : &description "Currently a researcher with Osaka University, interested in biomedical applications of AI."
 url                      : https://lingweizhu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lingweizhu.github.io"
+repository               : "zhengchen3.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lingwei Zhu"
+  name             : "Zheng Chen"
   avatar           : "zhu_profile.jpg"
-  bio              : "Currently PhD student for Reinforcement Learning and Robotics at Robot Learning Lab, Nara Institute of Science and Technology"
-  location         : "Nara, Japan"
+  bio              : "Currently a researcher with Osaka University, Japan"
+  location         : "Osaka, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=1_jwNFIAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lingweizhu"
+  github           : "zhengchen3"
   google_plus      :
   keybase          :
   instagram        :
