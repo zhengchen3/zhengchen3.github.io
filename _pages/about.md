@@ -19,6 +19,6 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 
 News
 ======
-* _21 Apr 2022_: Our paper accepted to IJCAI-ECAI-22 [link](https://arxiv.org/pdf/2204.09840.pdf).
+* _21 Apr 2022_: Our paper accepted to IJCAI-ECAI-22 [link](https://arxiv.org/abs/2204.09840).
 * _01 Apr 2022_: Two papers accepted to The 44th IEEE EMBC 22.
 
