@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 Zheng Chen (陈峥). I am currently a researcher with Osaka University.
+
 My research interests include biomedical engineering, knowledge-based discovery and applications of artificial intelligence.
 My detailed information can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
 
