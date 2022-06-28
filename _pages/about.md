@@ -10,8 +10,10 @@ redirect_from:
 
 Zheng Chen (陈峥). I am currently a researcher with [Graduate School of Engineering Science, Osaka University](http://ushiolab.sys.es.osaka-u.ac.jp).
 
-My research interests include biomedical engineering, knowledge-based discovery and applications of artificial intelligence.
-My detailed information can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
+My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. I aim to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. Currently, I focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
+
+
+Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
 
 Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 
