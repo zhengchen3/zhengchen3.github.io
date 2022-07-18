@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Zheng Chen (陈峥), I am currently a researcher with [Graduate School of Engineering Science, Osaka University](http://ushiolab.sys.es.osaka-u.ac.jp) in [Prof. Takashi Matsubara's Group](https://tksmatsubara.github.io/ja/).
-I received MSc and PhD degrees from NAIST October 2019 and March 2021, respectively, under the supervision of [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
+I received MSc and PhD degrees from NAIST October 2019 and March 2022, respectively, under the supervision of [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
 My research purpose is to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
