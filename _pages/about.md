@@ -13,7 +13,7 @@ He received MSc and PhD degrees from NAIST October 2019 and March 2021, respecti
 
 His research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
 The purpose is to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
-Currently, he focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
+Currently, he pays attention to neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
 
 
 Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
