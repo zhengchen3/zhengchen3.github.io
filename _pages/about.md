@@ -24,9 +24,10 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 
 News
 ======
-* _13 Aug 2022_: Call for papers: _the 24th IEEE International Conference on High Performance Computing and Communications
-(HPCC-22)_.
-  
+
+* _20 Oct 2022_: Our paper has been accepted at _BIBM-22_.
+* _13 Aug 2022_: <strike>Call for papers: _the 24th IEEE International Conference on High Performance Computing and Communications
+(HPCC-22)_.<strike>
 * _8 Jul 2022_: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
 * _15 Jun 2022_: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
 * _17 May 2022_: <strike>Call for papers of our organized sessions ([OS-ECM]) in 2022 IEEE 11th GCCE.</strike>
