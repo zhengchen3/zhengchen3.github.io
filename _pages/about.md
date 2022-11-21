@@ -25,7 +25,7 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 News
 ======
 
-* _13 Dec 2022_: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
+* _13 Nov 2022_: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
 * _24 Oct 2022_: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
 * _20 Oct 2022_: Our paper has been accepted as a regular paper at _IEEE BIBM-22_.
 * _13 Aug 2022_: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications
