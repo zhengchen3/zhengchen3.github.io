@@ -29,8 +29,7 @@ News
 * _[2022/11/13]_: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
 * _[2022/10/24]_: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
 * _[2022/10/20]_: Two papers have been accepted as regular papers at _IEEE BIBM-22_.
-* _[2022/08/13]_: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications
-(HPCC-22).</strike>
+* _[2022/08/13]_: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications (HPCC-22).</strike>
 * _[2022/07/08]_: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
 * _[2022/06/15]_: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
 * _[2022/05/17]_: <strike>Call for papers of our organized sessions ([OS-ECM]) in 2022 IEEE 11th GCCE.</strike>
