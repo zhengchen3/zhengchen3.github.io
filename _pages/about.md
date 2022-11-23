@@ -25,7 +25,7 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 News
 ======
 
-* [[2022/11/23]]: Our article has been accepted in _Methods Journal_, Elsevier. 
+* [2022/11/23]: Our article has been accepted in _Methods Journal_, Elsevier. 
 * [2022/11/13]: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
 * [2022/10/24]: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
 * [2022/10/20]: Two papers have been accepted as regular papers at _IEEE BIBM-22_.
