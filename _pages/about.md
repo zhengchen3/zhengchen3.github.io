@@ -35,7 +35,7 @@ News
 * _[2022/06/15]_: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
 * _[2022/05/17]_: <strike>Call for papers of our organized sessions ([OS-ECM]) in 2022 IEEE 11th GCCE.</strike>
 * _[2022/04/21]_: Our paper accepted at _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
-* _[2022/04/01]_: Two papers have been accepted at _the 44th IEEE EMBC_.
+* [2022/04/01]: Two papers have been accepted at _the 44th IEEE EMBC_.
 
 ****
 
