@@ -25,17 +25,17 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 News
 ======
 
-* [2022/11/23]: Our article has been accepted in _Methods Journal_, Elsevier. 
-* [2022/11/13]: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
-* [2022/10/24]: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
-* [2022/10/20]: Two papers have been accepted as regular papers at _IEEE BIBM-22_.
-* [2022/08/13]: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications
+* _[2022/11/23]_: Our article has been accepted in _Methods Journal_, Elsevier. 
+* _[2022/11/13]_: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
+* _[2022/10/24]_: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
+* _[2022/10/20]_: Two papers have been accepted as regular papers at _IEEE BIBM-22_.
+* _[2022/08/13]_: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications
 (HPCC-22).</strike>
-* [2022/07/08]: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
-* [2022/06/15]: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
-* [2022/05/17]: <strike>Call for papers of our organized sessions ([OS-ECM]) in 2022 IEEE 11th GCCE.</strike>
-* [2022/04/21]: Our paper accepted at _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
-* [2022/04/01]: Two papers have been accepted at _the 44th IEEE EMBC_.
+* _[2022/07/08]_: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
+* _[2022/06/15]_: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
+* _[2022/05/17]_: <strike>Call for papers of our organized sessions ([OS-ECM]) in 2022 IEEE 11th GCCE.</strike>
+* _[2022/04/21]_: Our paper accepted at _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
+* _[2022/04/01]_: Two papers have been accepted at _the 44th IEEE EMBC_.
 
 ****
 
