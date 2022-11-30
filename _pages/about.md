@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am currently a specially appointed assistant professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in [Department of Translational Datability (Sakurai & Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
+Zheng Chen (陈峥), I am currently a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in [Department of Translational Datability (Sakurai & Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
 I received MSc and PhD degrees from NAIST October 2019 and March 2022, respectively, under the supervision of [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
@@ -19,6 +19,15 @@ Currently, I focus on neurodynamic cognition, cancers, and cardiovascular diseas
 Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
 
 Feel free to contact me via *chen.zheng.bn1@gmail.com*.
+
+****
+
+Work Experience
+======
+
+* 2022.12.01 ~ now: Specially Appointed Assistant Professor, [Department of Translational Datability](https://www.dm.sanken.osaka-u.ac.jp), ISIR, Osaka Unversity, Japan
+* 2022.02.16 ~ 2022.11.30: Posdocal Researcher, [Matsubara Group](https://tksmatsubara.github.io), Osaka Unversity, Japan
+* 2021.10.01 ~ 2022.03.31: Research Trainee, RIKEN Center for Computational Science (R-CCS), Japan
 
 ****
 
@@ -42,3 +51,6 @@ Recent Papers
 ======
 * Z. Chen, LW. Zhu, ZW .Yang, T. Matsubara, “[Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization](https://arxiv.org/abs/2206.10801),” _ECML-PKDD_, Grenoble, France, Sep 2022.
 * Z. Chen, LW. Zhu, ZW .Yang, RY Zhang, “[Multi-Tier Platform for Cognizing Massive Electroencephalogram](https://arxiv.org/abs/2204.09840),” _IJCAI-ECAI_, Vienna, Austria, July 2022.
+
+
+
