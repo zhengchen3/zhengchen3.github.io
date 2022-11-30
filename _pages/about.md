@@ -25,9 +25,9 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 Work Experience
 ======
 
-* 2022.12.01 ~ now: Specially Appointed Assistant Professor, [Department of Translational Datability](https://www.dm.sanken.osaka-u.ac.jp), ISIR, Osaka Unversity, Japan
-* 2022.02.16 ~ 2022.11.30: Posdocal Researcher, [Matsubara Group](https://tksmatsubara.github.io), Osaka Unversity, Japan
-* 2021.10.01 ~ 2022.03.31: Research Trainee, RIKEN Center for Computational Science (R-CCS), Japan
+* 2022.12.01 ~ now: Specially Appointed Assistant Professor, Department of Translational Datability, ISIR, Osaka Unversity, Japan
+* 2022.02.16 ~ 2022.11.30: Posdocal Researcher, Prof. Takashi Matsubara's Group, Osaka Unversity, Japan
+* 2021.10.01 ~ 2022.03.31: Research Trainee, Processor Research Team, RIKEN Center for Computational Science (R-CCS), Japan
 
 ****
 
