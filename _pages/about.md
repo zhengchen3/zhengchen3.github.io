@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am currently a researcher with [Graduate School of Engineering Science, Osaka University](http://ushiolab.sys.es.osaka-u.ac.jp) in [Prof. Takashi Matsubara's Group](https://tksmatsubara.github.io/ja/).
+Zheng Chen (陈峥), I am currently a specially appointed assistant professor with [ISIR, Osaka University]([http://ushiolab.sys.es.osaka-u.ac.jp](https://www.sanken.osaka-u.ac.jp/en/)) in [Department of Translational Datability (Sakurai & Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
 I received MSc and PhD degrees from NAIST October 2019 and March 2022, respectively, under the supervision of [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
