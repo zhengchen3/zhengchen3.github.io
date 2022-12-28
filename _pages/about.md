@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am currently a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in [Department of Translational Datability (Sakurai & Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
+Zheng Chen (陈峥), I am currently a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in [Department of Translational Datability (Sakurai&Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
 I received MSc and PhD degrees from NAIST October 2019 and March 2022, respectively, under the supervision of [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
 My research purpose is to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
@@ -25,7 +25,8 @@ Work Experience
 ======
 
 * 2022.12.01 - now: Specially Appointed Assistant Professor, SIR, Osaka University, Japan
-* 2022.02.16 - 2022.11.30: Postdoctoral Researcher, Osaka University, Japan ([Prof. Takashi Matsubara](https://tksmatsubara.github.io)'s Group)
+* 2022.02.16 - 2022.11.30: Postdoctoral Researcher, Osaka University, Japan 
+                       ([Prof. Takashi Matsubara](https://tksmatsubara.github.io)'s Group)
 * 2021.10.01 - 2022.03.31: Research Trainee, RIKEN R-CCS, Japan
 
 ****
