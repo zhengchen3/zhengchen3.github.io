@@ -25,7 +25,7 @@ Work Experience
 ======
 
 * 2022.12.01 - now: Specially Appointed Assistant Professor, SIR, Osaka University, Japan
-* 2022.02.16 - 2022.11.30: Postdoctoral Researcher, Osaka University, Japan ([Prof. Takashi Matsubara's Group](https://tksmatsubara.github.io))
+* 2022.02.16 - 2022.11.30: Postdoctoral Researcher, Osaka University, Japan /> ([Prof. Takashi Matsubara's Group](https://tksmatsubara.github.io))
 * 2021.10.01 - 2022.03.31: Research Trainee, RIKEN R-CCS, Japan
 
 ****
