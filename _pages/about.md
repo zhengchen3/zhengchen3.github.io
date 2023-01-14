@@ -34,7 +34,7 @@ News
 ======
 
 * \[2023/01/13\]: Our article has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
-* \[2022/12/26\]: Our paper has been accepted at _SDM-23_.
+* \[2022/12/26\]: Our paper has been accepted at _SIAM SDM-23_.
 * \[2022/11/23\]: Our article has been accepted in _Methods Journal_, Elsevier. 
 * \[2022/11/13\]: We release the code of our paper "Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization". [[Code link]](https://github.com/zhengchen3/ECML_VQRIM) 
 * \[2022/10/24\]: One paper has been accepted as a regular paper at _IEEE HPCC-22_.
