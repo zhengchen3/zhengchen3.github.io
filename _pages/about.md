@@ -24,7 +24,7 @@ Feel free to contact me via *chen.zheng.bn1@gmail.com*.
 Work Experience
 ======
 
-* 2022.12.01 - now: Specially Appointed Assistant Professor, SIR, Osaka University, Japan
+* 2022.12.01 - now: Specially Appointed Assistant Professor, ISIR, Osaka University, Japan
 * 2022.02.16 - 2022.11.30: Postdoctoral Researcher, Osaka University, Japan
 * 2021.10.01 - 2022.03.31: Research Trainee, RIKEN R-CCS, Japan
 
