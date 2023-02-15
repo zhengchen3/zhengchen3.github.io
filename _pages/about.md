@@ -17,7 +17,7 @@ Currently, I focus on neurodynamic cognition, cancers, and cardiovascular diseas
 
 Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
 
-Feel free to contact me via *chen.zheng.bn1@gmail.com*.
+Feel free to contact me via *chenz@sanken.osaka-u.ac.jp*.
 
 ****
 
