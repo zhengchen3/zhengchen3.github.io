@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am currently a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in [Department of Translational Datability (Sakurai&Matsubara Lab)](https://www.dm.sanken.osaka-u.ac.jp).
-I received MSc and PhD degrees from NAIST October 2019 and March 2022, respectively, under the supervision of [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
+Zheng Chen (陈峥), I am a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Department of Translational Datability (Sakurai&Matsubara Group)](https://www.dm.sanken.osaka-u.ac.jp).
+I received MSc and Ph.D. degrees from NAIST in October 2019 and March 2022, respectively, under the supervision of [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=ja&user=4Onx7zgAAAAJ). 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
-My research purpose is to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
-Currently, I focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
+My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
+I focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
 
 
 Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
@@ -33,6 +33,7 @@ Work Experience
 News
 ======
 
+* \[2023/04/08\]: Our article has been accepted in _Journal of Computer Methods and Programs in Biomedicine_.
 * \[2023/01/13\]: Our article has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 * \[2022/12/26\]: Our paper has been accepted at _SIAM SDM-23_.
 * \[2022/11/23\]: Our article has been accepted in _Methods Journal_, Elsevier. 
