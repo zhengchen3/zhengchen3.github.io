@@ -56,9 +56,12 @@ Recent Papers
 
 My Group
 ======
--- Ziwei Yang (PhD, Kyoto Univeristy)
--- Rikuto Kotoge (MSc, Osaka Univeristy)
--- Xihao Piao (MSc, Osaka Univeristy)
--- Adil Gafarli (MSc, Osaka Univeristy)
+-- Ziwei Yang (PhD, Kyoto University), Multi-omics data mining
+
+-- Rikuto Kotoge (MSc, Osaka University), Seizure prediction by EEG
+
+-- Xihao Piao (MSc, Osaka University), Long time series forecasting 
+
+-- Adil Gafarli (MSc, Osaka University)
 
 
