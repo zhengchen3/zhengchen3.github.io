@@ -56,12 +56,12 @@ Recent Papers
 
 My Group
 ======
--- Ziwei Yang (PhD, Kyoto University), Multi-omics data mining
+-- Ziwei Yang (PhD, Kyoto University), multi-omics data mining
 
--- Rikuto Kotoge (MSc, Osaka University), Seizure prediction by EEG
+-- Rikuto Kotoge (MSc, Osaka University), seizure prediction by EEG
 
--- Xihao Piao (MSc, Osaka University), Long time series forecasting 
+-- Xihao Piao (MSc, Osaka University), long time series forecasting 
 
--- Adil Gafarli (MSc, Osaka University)
+-- Adil Gafarli (MSc, Osaka University), heart artifact analysis
 
 
