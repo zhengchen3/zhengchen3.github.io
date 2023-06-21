@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Department of Translational Datability (Sakurai&Matsubara Group)](https://www.dm.sanken.osaka-u.ac.jp).
-I received MSc and Ph.D. degrees from NAIST in October 2019 and March 2022, respectively. 
+Zheng Chen (陈峥), I am a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
+I received MSc and Ph.D. degrees from NAIST under [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
 My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
 My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
 I focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
@@ -33,7 +33,7 @@ Work Experience
 News
 ======
 
-* \[2023/06/08\]: We are in the process of reorganizing our projects and the associated Github . [[Link]](https://github.com/chenzRG/TNSRE_23)
+* \[2023/06/08\]: We are in the process of reorganizing our projects and the associated Github . [[Link]](https://github.com/chenzRG)
 * \[2023/04/08\]: Our paper has been accepted in _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
 * \[2023/01/13\]: Our paper has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 * \[2022/12/26\]: Our paper has been accepted at _SIAM SDM-23_.
