@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Zheng Chen (陈峥), I am a Specially Appointed Assistant Professor with [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
-I received M.S. and Ph.D. degrees from NAIST under [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
-My research interests lie in data representation, knowledge-based modeling, and biomedical engineering. 
-My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. 
-I focus on neurodynamic cognition, cancers, and cardiovascular diseases by merging deep learning architectures with information theory. 
+I am Zheng Chen (陈峥), a Specially Appointed Assistant Professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
+I obtained my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
+I have a deep-rooted interest in data representation, knowledge-based modeling, and biomedical engineering. My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. My work specifically emphasizes neurodynamic cognition, cardiovascular disease and biochemical network.
 
 
 Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
