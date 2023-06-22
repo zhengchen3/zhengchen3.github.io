@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zheng Chen (陈峥), a specially appointed assistant professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/) in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
+I am Zheng Chen (陈峥), a specially appointed assistant professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
 I obtained my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
 I have a deep-rooted interest in data representation, knowledge-based modeling, and biomedical engineering. My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. My work specifically emphasizes neurodynamic cognition, cardiovascular disease and biochemical network.
 
@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2023/06/22\]: Call for papers: Our Workshop about [Data-driven Science for Graphs](https://aidatalab.github.io),in IEEE Bigdata 2023.
+* \[2023/06/22\]: Call for papers: Our Workshop about [Data-driven Science for Graphs](https://aidatalab.github.io) in IEEE Bigdata 2023.
 * \[2023/06/08\]: We are in the process of reorganizing our projects and the associated Github . [[Link]](https://github.com/chenzRG)
 * \[2023/04/08\]: Our paper has been accepted in _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
 * \[2023/01/13\]: Our paper has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
