@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2023/06/22\]: Call for papers: Our Workshop about [Data-driven Science for Graphs](https://aidatalab.github.io) in IEEE Bigdata 2023.
+* \[2023/06/22\]: Call for papers: Our workshop about [Data-driven Science for Graphs](https://aidatalab.github.io) in IEEE Bigdata 2023.
 * \[2023/06/08\]: We are in the process of reorganizing our projects and the associated Github . [[Link]](https://github.com/chenzRG)
 * \[2023/04/08\]: Our paper has been accepted in _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
 * \[2023/01/13\]: Our paper has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
