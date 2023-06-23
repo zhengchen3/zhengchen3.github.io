@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Zheng Chen (陈峥), a specially appointed assistant professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in the [Sakurai&Matsubara Group](https://www.dm.sanken.osaka-u.ac.jp).
-I obtained my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
+I received my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
 I have a deep-rooted interest in data representation, knowledge-based modeling, and biomedical engineering. My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical consideration. My work specifically emphasizes neurodynamic cognition, cardiovascular disease and biochemical network.
 
 
