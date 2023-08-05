@@ -43,7 +43,6 @@ News
 * \[2022/08/13\]: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications (HPCC-22).</strike>
 * \[2022/07/08\]: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
 * \[2022/06/15\]: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
-* \[2022/05/17\]: <strike>Call for papers of our organized sessions (OS-ECM) in 2022 IEEE 11th GCCE.</strike>
 * \[2022/04/21\]: Our paper accepted at _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
 
 ****
