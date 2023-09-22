@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2023/09/11\]: Our paper has been accepted at _NeurIPS-23_.
+* \[2023/09/22\]: Our paper has been accepted at _NeurIPS-23_.
 * \[2023/09/11\]: One paper has been accepted at _ACML-23_. 
 * \[2023/08/05\]: One paper has been accepted as a Long paper at _CIKM-23_.
 * \[2023/06/22\]: CFP: our workshop [Data-driven Science for Graphs](https://aidatalab.github.io) at _IEEE Bigdata-23_.
