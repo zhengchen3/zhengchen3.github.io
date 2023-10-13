@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2023/10/13\]: One paper has been accepted as regular paper at _IEEE BIBM-23_.
+* \[2023/10/13\]: One paper has been accepted as Regular paper at _IEEE BIBM-23_.
 * \[2023/09/22\]: Our paper has been accepted at _NeurIPS-23_.
 * \[2023/09/11\]: One paper has been accepted at _ACML-23_. 
 * \[2023/08/05\]: One paper has been accepted as a Long paper at _CIKM-23_.
@@ -41,7 +41,7 @@ News
 * \[2023/01/13\]: Our paper has been accepted in _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 * \[2022/12/26\]: Our paper has been accepted at _SIAM SDM-23_.
 * \[2022/11/23\]: Our paper has been accepted in _Methods Journal_, Elsevier. 
-* \[2022/10/20\]: Two papers have been accepted as regular papers at _IEEE BIBM-22_.
+* \[2022/10/20\]: Two papers have been accepted as Regular papers at _IEEE BIBM-22_.
 * \[2022/08/13\]: <strike>Call for papers: the 24th IEEE International Conference on High Performance Computing and Communications (HPCC-22).</strike>
 * \[2022/07/08\]: Our paper has been accepted at _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
 * \[2022/06/15\]: Our paper has been accepted at _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
