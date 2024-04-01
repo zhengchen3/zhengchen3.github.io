@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2024/02/20\]: Our paper of Building Temperature Forecasting has been accepted at _IEEE PES General Meeting_.
+* \[2024/02/20\]: Our paper on Building Temperature Forecasting has been accepted at _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper has been accepted in _IEEE Transactions on Evolutionary Computation_ (IF: 14.3).
 * \[2023/10/13\]: One paper has been accepted as Regular paper at _IEEE BIBM-23_.
 * \[2023/09/22\]: Our paper has been accepted at _NeurIPS-23_.
@@ -59,12 +59,12 @@ Recent Papers
 
 My Group
 ======
--- Ziwei Yang (PhD, Kyoto University), multi-omics data mining
+-- Ziwei Yang (PhD, Kyoto University), multi-omics data, phenotyping
 
--- Rikuto Kotoge (MSc, Osaka University), seizure prediction by EEG
+-- Rikuto Kotoge (PhD, Osaka University), EEG data, seizure prediction
 
--- Xihao Piao (MSc, Osaka University), long time series forecasting 
+-- Xihao Piao (PhD, Osaka University), time series, fairness  
 
--- Adil Gafarli (MSc, Osaka University), heart artifact analysis
+-- Adil Gafarli (MSc, Osaka University), arrhythmias analysis
 
 
