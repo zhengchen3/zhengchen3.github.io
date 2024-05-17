@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2024/05/17\]: One paper is accepted by _KDD-24_ Research Track. Congratulations to Xihao!!!
+* \[2024/05/17\]: One paper is accepted by _KDD-24_ Research Track. Congratulations to Xihao for his first paper in top-tier conference!!!
 * \[2024/02/20\]: Our paper on Building Temperature Forecasting is accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper is accepted by _IEEE Transactions on Evolutionary Computation_ (IF: 14.3).
 * \[2023/10/13\]: One paper is accepted as Regular paper by _IEEE BIBM-23_.
