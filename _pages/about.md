@@ -49,12 +49,6 @@ News
 * \[2022/06/15\]: Our paper is accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
 * \[2022/04/21\]: Our paper is accepted by _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
 
-****
-
-Recent Papers
-======
-* Z. Chen, LW. Zhu, ZW .Yang, T. Matsubara, “[Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization](https://arxiv.org/abs/2206.10801),” _ECML-PKDD_, Grenoble, France, Sep 2022.
-* Z. Chen, LW. Zhu, ZW .Yang, RY Zhang, “[Multi-Tier Platform for Cognizing Massive Electroencephalogram](https://arxiv.org/abs/2204.09840),” _IJCAI-ECAI_, Vienna, Austria, July 2022.
 
 ****
 
