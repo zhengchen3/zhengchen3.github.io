@@ -32,8 +32,8 @@ News
 ======
 
 * \[2024/05/17\]: Congratulations to Xihao for his first paper being accepted by _KDD-24_ Research Track!
-* \[2024/02/20\]: Our paper on Building Temperature Forecasting is accepted by _IEEE PES General Meeting_.
-* \[2024/01/03\]: Our paper is accepted by _IEEE Transactions on Evolutionary Computation_ (IF: 14.3).
+* \[2024/02/20\]: Our paper on building temperature forecasting is accepted by _IEEE PES General Meeting_.
+* \[2024/01/03\]: Our paper is accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
 * \[2023/10/13\]: One paper is accepted as Regular paper by _IEEE BIBM-23_.
 * \[2023/09/22\]: Our paper is accepted by _NeurIPS-23_.
 * \[2023/09/11\]: One paper is accepted by _ACML-23_. 
@@ -54,12 +54,12 @@ News
 
 My Group
 ======
--- Ziwei Yang (PhD, Kyoto University), multi-omics data, phenotyping
+-- Ziwei Yang (Ph.D, Kyoto University), multi-omics data, phenotyping
 
--- Rikuto Kotoge (PhD, Osaka University), EEG data, seizure prediction
+-- Rikuto Kotoge (Ph.D, Osaka University), EEG data, seizure prediction
 
--- Xihao Piao (PhD, Osaka University), time series, fairness  
+-- Xihao Piao (Ph.D, Osaka University), time series, fairness  
 
--- Adil Gafarli (MSc, Osaka University), arrhythmias analysis
+-- Adil Gafarli (M.Sc, Osaka University), arrhythmias analysis
 
 
