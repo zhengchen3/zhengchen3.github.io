@@ -32,10 +32,10 @@ News
 ======
 
 * \[2024/05/17\]: Congratulations to Xihao for his first paper being accepted by _KDD-24_ Research Track!
-* \[2024/02/20\]: Our paper on building temperature forecasting is accepted by _IEEE PES General Meeting_.
+* \[2024/02/20\]: One paper is accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper is accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
 * \[2023/10/13\]: One paper is accepted as Regular paper by _IEEE BIBM-23_.
-* \[2023/09/22\]: Our paper is accepted by _NeurIPS-23_.
+* \[2023/09/22\]: One paper is accepted by _NeurIPS-23_.
 * \[2023/09/11\]: One paper is accepted by _ACML-23_. 
 * \[2023/08/05\]: One paper has been accepted as a Long paper at _ACM CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
 * \[2023/06/22\]: <strike>CFP: our workshop [Data-driven Science for Graphs](https://aidatalab.github.io) at _IEEE Bigdata-23_.</strike>
