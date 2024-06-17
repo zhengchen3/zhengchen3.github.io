@@ -37,18 +37,18 @@ News
 * \[2024/02/20\]: One paper accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
 * \[2023/10/13\]: One paper accepted as Regular paper by _IEEE BIBM-23_.
-* \[2023/09/22\]: One paper accepted by _NeurIPS-23_.
-* \[2023/09/11\]: One paper accepted by _ACML-23_. 
+* \[2023/09/22\]: [One paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b3e866c228f8f4ea18021ae63aea5453-Abstract-Conference.html) accepted by _NeurIPS-23_.
+* \[2023/09/11\]: [One paper](https://arxiv.org/abs/2401.10843) accepted by _ACML-23_. 
 * \[2023/08/05\]: One paper accepted as a Long paper by _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
 * \[2023/06/22\]: <strike>CFP: our workshop [Data-driven Science for Graphs](https://aidatalab.github.io) at _IEEE Bigdata-23_.</strike>
-* \[2023/04/08\]: Our paper accepted by _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
-* \[2023/01/13\]: Our paper accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
-* \[2022/12/26\]: Our paper accepted by _SIAM SDM-23_.
+* \[2023/04/08\]: [Our paper](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author) accepted by _Journal of Computer Methods and Programs in Biomedicine_.
+* \[2023/01/13\]: [Our paper](https://ieeexplore.ieee.org/abstract/document/10041186) accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
+* \[2022/12/26\]: [Our paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch38) accepted by _SIAM SDM-23_.
 * \[2022/11/23\]: Our paper accepted by _Methods Journal_, Elsevier. 
 * \[2022/10/20\]: Two papers accepted as Regular papers by _IEEE BIBM-22_.
 * \[2022/07/08\]: Our paper accepted by _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
-* \[2022/06/15\]: [Our paper](https://arxiv.org/abs/2206.10801)  accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
-* \[2022/04/21\]: Our paper accepted by _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
+* \[2022/06/15\]: [Our paper](https://arxiv.org/abs/2206.10801)  accepted by _ECML-PKDD-22_.
+* \[2022/04/21\]: [Our paper](https://arxiv.org/abs/2204.09840) accepted by _IJCAI-ECAI-22_.
 
 
 ****
