@@ -47,7 +47,7 @@ News
 * \[2022/11/23\]: Our paper accepted by _Methods Journal_, Elsevier. 
 * \[2022/10/20\]: Two papers accepted as Regular papers by _IEEE BIBM-22_.
 * \[2022/07/08\]: Our paper accepted by _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
-* \[2022/06/15\]: [[Our paper]](https://arxiv.org/abs/2206.10801)  accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
+* \[2022/06/15\]: [Our paper](https://arxiv.org/abs/2206.10801)  accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
 * \[2022/04/21\]: Our paper accepted by _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
 
 
