@@ -55,12 +55,12 @@ News
 
 My Group
 ======
--- Ziwei Yang (Ph.D, Kyoto University), multi-omics data, phenotyping
+-- Ziwei Yang, Ph.D, Kyoto University, 2023.4 - (multi-omics data, phenotyping)
 
--- Kotoge Rikuto (Ph.D, Osaka University), EEG, seizure prediction, graph learning
+-- Kotoge Rikuto, Ph.D, Osaka University, 2024.4 - (EEG, seizure prediction, graph learning)
 
--- Xihao Piao (Ph.D, Osaka University), time series, fairness  
+-- Xihao Piao, Ph.D, Osaka University, 2024.4 - (time series, fairness)
 
--- Adil Gafarli (M.Sc, Osaka University), arrhythmias analysis
+-- Adil Gafarli, M.Sc, Osaka University, 2023.4 - (arrhythmias prediction)
 
 
