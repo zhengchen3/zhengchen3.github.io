@@ -34,22 +34,22 @@ News
 * \[2024/06/17\]: Congratulations to Kotoge for receiving the OsakaU 2024-2027 Next Generation AI Talent Development Fellowship (JST BOOST)!
 * \[2024/06/03\]: Congratulations to Ziwei for receiving the KyotoU 2024-2026 DoGS SPRING (JST Support for Pioneering Research Initiated by the Next Generation) Fellowship!
 * \[2024/05/17\]: Congratulations to Xihao for his first paper being accepted by _KDD-24_ Research Track!
-* \[2024/02/20\]: One paper is accepted by _IEEE PES General Meeting_.
-* \[2024/01/03\]: Our paper is accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
-* \[2023/10/13\]: One paper is accepted as Regular paper by _IEEE BIBM-23_.
-* \[2023/09/22\]: One paper is accepted by _NeurIPS-23_.
-* \[2023/09/11\]: One paper is accepted by _ACML-23_. 
-* \[2023/08/05\]: One paper has been accepted as a Long paper at _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
+* \[2024/02/20\]: One paper accepted by _IEEE PES General Meeting_.
+* \[2024/01/03\]: Our paper accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
+* \[2023/10/13\]: One paper accepted as Regular paper by _IEEE BIBM-23_.
+* \[2023/09/22\]: One paper accepted by _NeurIPS-23_.
+* \[2023/09/11\]: One paper accepted by _ACML-23_. 
+* \[2023/08/05\]: One paper accepted as a Long paper by _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
 * \[2023/06/22\]: <strike>CFP: our workshop [Data-driven Science for Graphs](https://aidatalab.github.io) at _IEEE Bigdata-23_.</strike>
 * \[2023/06/08\]: Our new Team-GitHub. [[Link]](https://github.com/chenzRG)
-* \[2023/04/08\]: Our paper is accepted by _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
-* \[2023/01/13\]: Our paper is accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
-* \[2022/12/26\]: Our paper is accepted by _SIAM SDM-23_.
-* \[2022/11/23\]: Our paper is accepted by _Methods Journal_, Elsevier. 
-* \[2022/10/20\]: Two papers are accepted by as Regular papers at _IEEE BIBM-22_.
-* \[2022/07/08\]: Our paper is accepted by _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
-* \[2022/06/15\]: Our paper is accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
-* \[2022/04/21\]: Our paper is accepted by _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
+* \[2023/04/08\]: Our paper accepted by _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
+* \[2023/01/13\]: Our paper accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
+* \[2022/12/26\]: Our paper accepted by _SIAM SDM-23_.
+* \[2022/11/23\]: Our paper accepted by _Methods Journal_, Elsevier. 
+* \[2022/10/20\]: Two papers accepted as Regular papers by _IEEE BIBM-22_.
+* \[2022/07/08\]: Our paper accepted by _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
+* \[2022/06/15\]: Our paper accepted by _ECML-PKDD-22_. [[Link]](https://arxiv.org/abs/2206.10801) 
+* \[2022/04/21\]: Our paper accepted by _IJCAI-ECAI-22_. [[Link]](https://arxiv.org/abs/2204.09840)
 
 
 ****
