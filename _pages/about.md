@@ -31,6 +31,7 @@ Work Experience
 News
 ======
 
+* \[2024/06/17\]: Congrautlations to Kotoge for receiving the OsakaU 2024-2027 Next Generation AI Talent Development Fellowship (JST BOOST)!
 * \[2024/05/17\]: Congratulations to Xihao for his first paper being accepted by _KDD-24_ Research Track!
 * \[2024/02/20\]: One paper is accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper is accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
@@ -56,7 +57,7 @@ My Group
 ======
 -- Ziwei Yang (Ph.D, Kyoto University), multi-omics data, phenotyping
 
--- Rikuto Kotoge (Ph.D, Osaka University), EEG data, seizure prediction
+-- Kotoge Rikuto (Ph.D, Osaka University), EEG, seizure prediction, graph learning
 
 -- Xihao Piao (Ph.D, Osaka University), time series, fairness  
 
