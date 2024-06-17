@@ -39,7 +39,7 @@ News
 * \[2023/10/13\]: One paper is accepted as Regular paper by _IEEE BIBM-23_.
 * \[2023/09/22\]: One paper is accepted by _NeurIPS-23_.
 * \[2023/09/11\]: One paper is accepted by _ACML-23_. 
-* \[2023/08/05\]: One paper has been accepted as a Long paper at _ACM CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
+* \[2023/08/05\]: One paper has been accepted as a Long paper at _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
 * \[2023/06/22\]: <strike>CFP: our workshop [Data-driven Science for Graphs](https://aidatalab.github.io) at _IEEE Bigdata-23_.</strike>
 * \[2023/06/08\]: Our new Team-GitHub. [[Link]](https://github.com/chenzRG)
 * \[2023/04/08\]: Our paper is accepted by _Journal of Computer Methods and Programs in Biomedicine_. [[Link]](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author)
