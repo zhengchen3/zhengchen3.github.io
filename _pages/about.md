@@ -40,7 +40,7 @@ News
 * \[2023/09/22\]: [One paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b3e866c228f8f4ea18021ae63aea5453-Abstract-Conference.html) accepted by _NeurIPS-23_.
 * \[2023/09/11\]: [One paper](https://arxiv.org/abs/2401.10843) accepted by _ACML-23_. 
 * \[2023/08/05\]: One long paper accepted by _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
-* \[2023/04/08\]: [Our paper](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author) accepted by _Computer Methods and Programs in Biomedicine Journal_.
+* \[2023/04/08\]: [Our paper](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author) accepted by _Computer Methods and Programs in Biomedicine_.
 * \[2023/01/13\]: [Our paper](https://ieeexplore.ieee.org/abstract/document/10041186) accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 * \[2022/12/26\]: [Our paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch38) accepted by _SIAM SDM-23_.
 * \[2022/11/23\]: Our paper accepted by _Methods Journal_, Elsevier. 
