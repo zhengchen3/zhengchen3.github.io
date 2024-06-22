@@ -45,7 +45,7 @@ News
 * \[2022/12/26\]: [Our paper](https://epubs.siam.org/doi/abs/10.1137/1.9781611977653.ch38) accepted by _SIAM SDM-23_.
 * \[2022/11/23\]: Our paper accepted by _Methods Journal_, Elsevier. 
 * \[2022/10/20\]: Two regular papers accepted by _IEEE BIBM-22_.
-* \[2022/07/08\]: Our paper accepted by _the 35th IEEE International System-on-Chip Conference (SoCC-22)_.
+* \[2022/07/08\]: Our paper accepted by _the 35th IEEE SoCC-22_.
 * \[2022/06/15\]: [Our paper](https://arxiv.org/abs/2206.10801)  accepted by _ECML-PKDD-22_.
 * \[2022/04/21\]: [Our paper](https://arxiv.org/abs/2204.09840) accepted by _IJCAI-ECAI-22_.
 
