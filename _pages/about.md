@@ -31,8 +31,8 @@ Work Experience
 News
 ======
 
-* \[2024/06/17\]: Congratulations to Kotoge for receiving the OsakaU 2024-2027 JST BOOST Fellowship!
-* \[2024/06/03\]: Congratulations to Ziwei for receiving the KyotoU 2024-2026 DoGS JST SPRING Fellowship!
+* \[2024/06/17\]: Congrats to Kotoge for receiving the OsakaU 2024-2027 JST BOOST Fellowship!
+* \[2024/06/03\]: Congrats to Ziwei for receiving the KyotoU 2024-2026 DoGS JST SPRING Fellowship!
 * \[2024/05/17\]: Congratulations to Xihao for his first paper being accepted by _KDD-24_ Research Track! [[Paper]](https://arxiv.org/abs/2406.09009) 
 * \[2024/02/20\]: One paper accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: Our paper accepted by _IEEE Trans. on Evolutionary Computation_ (IF: 14.3).
