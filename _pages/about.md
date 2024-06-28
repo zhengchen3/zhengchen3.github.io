@@ -31,6 +31,7 @@ Work Experience
 News
 ======
 
+* \[2024/06/28\]: Congrats to Paku for receiving 2024-2027 _JST SPRING_ Fellowship!
 * \[2024/06/17\]: Congrats to Kotoge for receiving 2024-2027 _JST BOOST_ Fellowship!
 * \[2024/06/03\]: Congrats to Ziwei for receiving 2024-2026 _JST SPRING_ Fellowship!
 * \[2024/05/17\]: Congrats to Xihao for his first paper accepted by _KDD-24_ Research Track! [[Paper]](https://arxiv.org/abs/2406.09009) 
