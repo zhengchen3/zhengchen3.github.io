@@ -60,7 +60,7 @@ My Group
 
 -- Kotoge Rikuto, Ph.D, Osaka University, 2024.4 - (EEG, seizure prediction, graph learning)
 
--- Xihao Piao, Ph.D, Osaka University, 2024.4 - (time series, fairness)
+-- Xihao Piao (Paku), Ph.D, Osaka University, 2024.4 - (time series, fairness)
 
 -- Adil Gafarli, M.Sc, Osaka University, 2023.4 - (arrhythmias prediction)
 
