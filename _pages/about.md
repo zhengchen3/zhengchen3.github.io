@@ -63,7 +63,7 @@ My Group
 
 -- Xihao Piao (Paku), Ph.D, Osaka University, 2024.4 - (time series, fairness)
 
--- Zihang Wang (Alex), Ph.D, Waseda University, 2024.10 - (Neuromorphic computing)
+-- Zihang Wang (Alex), Ph.D, Waseda University, 2024.10 - (neuromorphic computing)
 
 -- Adil Gafarli, M.Sc, Osaka University, 2023.4 - (arrhythmias prediction)
 
