@@ -31,6 +31,7 @@ Work Experience
 News
 ======
 
+* \[2024/012/10\]: Our paper accepted by _AAAI-25_.
 * \[2024/09/06\]: Congrats to Rikuto for his first paper accepted by _ICDM-24_!
 * \[2024/08/07\]: One paper accepted by _IEEE Transactions on on NanoBioscience_.
 * \[2024/06/28\]: Congrats to Paku for receiving 2024-2027 _JST SPRING_ Fellowship!
