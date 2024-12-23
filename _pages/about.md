@@ -31,7 +31,7 @@ Work Experience
 News
 ======
 
-* \[2024/012/10\]: Our work, _SODor_, accepted by _AAAI-25_. [[Paper]](https://arxiv.org/abs/2412.15598)
+* \[2024/012/10\]: Our work, [_SODor_](https://arxiv.org/abs/2412.15598), accepted by _AAAI-25_.
 * \[2024/09/06\]: Congrats to Rikuto for his first work, [_SplitSEE_](https://arxiv.org/abs/2410.11200), accepted by _ICDM-24_!
 * \[2024/08/07\]: One paper accepted by _IEEE Transactions on on NanoBioscience_.
 * \[2024/06/28\]: Congrats to Paku for receiving 2024-2027 _JST SPRING_ Fellowship!
