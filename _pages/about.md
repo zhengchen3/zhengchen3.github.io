@@ -32,7 +32,7 @@ News
 ======
 
 
-* \[2025/01/013\]: Delighted to be invited to serve as a Area Chair for KDD 2025 ADS Track.
+* \[2025/01/013\]: Delighted to be invited to serve as a Area Chair for _KDD 2025 ADS_ Track.
 * \[2024/012/10\]: Our work, [_SODor_](https://arxiv.org/abs/2412.15598), accepted by _AAAI-25_.
 * \[2024/09/06\]: Congrats to Rikuto for his first work, [_SplitSEE_](https://arxiv.org/abs/2410.11200), accepted by _ICDM-24_!
 * \[2024/08/07\]: One paper accepted by _IEEE Transactions on on NanoBioscience_.
