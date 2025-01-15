@@ -60,16 +60,16 @@ News
 
 My Group
 ======
--- Ziwei Yang, Ph.D, Kyoto University, 2023.4 - (multi-omics data, phenotyping)
+-- Ziwei Yang, Ph.D student, Kyoto University, 2023.4 - (multi-omics data, phenotyping)
 
--- Kotoge Rikuto, Ph.D, Osaka University, 2024.4 - (EEG, seizure detection, graph learning)
+-- Kotoge Rikuto, Ph.D student, Osaka University, 2024.4 - (EEG, seizure detection, graph learning)
 
--- Xihao Piao (Paku), Ph.D, Osaka University, 2024.4 - (time series, fairness)
+-- Xihao Piao (Paku), Ph.D student, Osaka University, 2024.4 - (time series, fairness)
 
--- Zihang Wang (Alex), Ph.D, Waseda University, 2024.10 - (neuromorphic computing)
+-- Zihang Wang (Alex), Ph.D student, Waseda University, 2024.10 - (neuromorphic computing)
 
--- Adil Gafarli, M.Sc, Osaka University, 2023.4 - (arrhythmias prediction)
+-- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - (arrhythmias prediction)
 
--- Koki Yoshida, M.Sc, Osaka University, 2025.4 - (EEG)
+-- Koki Yoshida, M.Sc student, Osaka University, 2025.4 - (EEG)
 
 
