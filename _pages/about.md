@@ -62,7 +62,7 @@ My Group
 ======
 -- Ziwei Yang, Ph.D student, Kyoto University, 2023.4 - (multi-omics data, bio-network)
 
--- Kotoge Rikuto, Ph.D student, Osaka University, 2024.4 - (EEG, brain modeling)
+-- Kotoge Rikuto, Ph.D student, Osaka University, 2024.4 - (EEG, brain dynamic modeling)
 
 -- Xihao Piao (Paku), Ph.D student, Osaka University, 2024.4 - (time series, fairness)
 
