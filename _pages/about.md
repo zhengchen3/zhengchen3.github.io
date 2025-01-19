@@ -39,7 +39,7 @@ News
 * \[2024/06/28\]: Congrats to Paku for receiving 2024-2027 _JST SPRING_ Fellowship!
 * \[2024/06/17\]: Congrats to Rikuto for receiving 2024-2027 _JST BOOST_ Fellowship!
 * \[2024/06/03\]: Congrats to Ziwei for receiving 2024-2026 _JST SPRING_ Fellowship!
-* \[2024/05/17\]: Congrats to Xihao for his first work, _Fredformer_, accepted by _KDD-24_ Research Track! [[Paper]](https://arxiv.org/abs/2406.09009) [[Presentation]](https://youtu.be/e_reRIr0lCA)
+* \[2024/05/17\]: Congrats to Xihao for his first work, _Fredformer_, accepted by _KDD-24_ Research Track! [[Paper]](https://arxiv.org/abs/2406.09009) [[Code]](https://github.com/chenzRG/Fredformer) [[Presentation]](https://youtu.be/e_reRIr0lCA)
 * \[2024/02/20\]: One paper accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: One paper accepted by _IEEE Transactions on Evolutionary Computation_.
 * \[2023/10/13\]: One regular paper accepted by _IEEE BIBM-23_.
