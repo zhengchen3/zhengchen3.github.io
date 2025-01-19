@@ -13,8 +13,6 @@ I received my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato
 I have a deep-rooted interest in data representation, knowledge-based modeling, and bioinformatics. My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical considerations. I specifically focus on EEG and network biology.
 
 
-Publications can be found [here](https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en).
-
 Feel free to contact me via *chenz@sanken.osaka-u.ac.jp*.
 
 ****
