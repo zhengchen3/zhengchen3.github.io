@@ -29,7 +29,7 @@ Work Experience
 News
 ======
 
-
+* \[2024/012/10\]: Our work, [_GeSubNet_](https://arxiv.org/abs/2410.13178), accepted by _ICLR-25_!  Congrats to Ziwei and Rikuto!
 * \[2025/01/22\]: Our paper accepted by _Computer Methods and Programs in Biomedicine_.
 * \[2025/01/13\]: Serving as the Area Chair of _KDD 2025 ADS_ Track February.
 * \[2024/012/10\]: Our work, [_SODor_](https://arxiv.org/abs/2412.15598), has been accepted as an Oral Presentation at _AAAI-25_!  Acceptance rate: 4.6% (600/12,957 submissions).
