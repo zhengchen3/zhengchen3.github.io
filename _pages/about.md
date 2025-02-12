@@ -29,10 +29,10 @@ Work Experience
 News
 ======
 
-* \[2025/01/23\]: Our work, [_GeSubNet_](https://arxiv.org/abs/2410.13178), has been accepted at _ICLR-25_ as an **Oral Presentation** (top 1.8%)!  Congrats to Ziwei and Rikuto!
+* \[2025/01/23\]: Our work, [_GeSubNet_](https://arxiv.org/abs/2410.13178), has been accepted at _ICLR 2025_ as an **Oral Presentation** (top 1.8%)!  Congrats to Ziwei and Rikuto!
 * \[2025/01/22\]: [One paper](https://doi.org/10.1016/j.cmpb.2025.108616) accepted by _Computer Methods and Programs in Biomedicine_.
 * \[2025/01/13\]: Serving as the Area Chair of _KDD 2025 ADS_ Track February.
-* \[2024/12/10\]: Our work, [_SODor_](https://arxiv.org/abs/2412.15598), has been accepted as an Oral Presentation at _AAAI-25_!  Acceptance rate: 4.6% (600/12,957 submissions).
+* \[2024/12/10\]: Our work, [_SODor_](https://arxiv.org/abs/2412.15598), has been accepted as an  **Oral Presentation** at _AAAI-25_!  Acceptance rate: 4.6% (600/12,957 submissions).
 * \[2024/09/06\]: Congrats to Rikuto for his first work, [_SplitSEE_](https://arxiv.org/abs/2410.11200), accepted by _ICDM-24_!
 * \[2024/08/07\]: One paper accepted by _IEEE Transactions on on NanoBioscience_.
 * \[2024/06/28\]: Congrats to Paku for receiving 2024-2027 _JST SPRING_ Fellowship!
