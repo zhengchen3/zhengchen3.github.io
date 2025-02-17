@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Zheng Chen (陈峥), a specially appointed assistant professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in [Sakurai&Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp), leading AIBIC group (AI for Bioinformatics and Care).
+I am Zheng Chen (陈峥), a specially appointed assistant professor at [ISIR, Osaka University](https://www.sanken.osaka-u.ac.jp/en/), in [Sakurai&Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp), leading **AIBIC group** (AI for Bioinformatics and Care).
 I received my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
 I have a deep-rooted interest in data representation, knowledge-based modeling, and bioinformatics. My research aims to explore a reliable form of automated biomedical systems designed on top of prior knowledge and practical considerations. I specifically focus on EEG and network biology.
 
