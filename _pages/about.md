@@ -29,6 +29,7 @@ Work Experience
 News
 ======
 
+* \[2025/03/11\]: Congrats to Koki for receiving 2025-2027 _Humanware Innovation_ Fellowship!
 * \[2025/02/14\]: One paper accepted by _PAKDD-25_.
 * \[2025/01/23\]: Congrats to Ziwei and Rikuto! Our work, [_GeSubNet_](https://arxiv.org/abs/2410.13178), has been accepted at _ICLR-25_ as an **Oral Presentation** (top 1.8%)! 
 * \[2025/01/22\]: [One paper](https://doi.org/10.1016/j.cmpb.2025.108616) accepted by _Computer Methods and Programs in Biomedicine_.
