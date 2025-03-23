@@ -29,6 +29,7 @@ Work Experience
 News
 ======
 
+* \[2025/03/22\]: Congrats to Zihang for receiving 2025-2028 _JST BOOST_ Fellowship!
 * \[2025/03/11\]: Congrats to Koki for receiving 2025-2027 _Humanware Innovation_ Fellowship!
 * \[2025/02/14\]: One paper accepted by _PAKDD-25_.
 * \[2025/01/23\]: Congrats to Ziwei and Rikuto! Our work, [_GeSubNet_](https://arxiv.org/abs/2410.13178), has been accepted at _ICLR-25_ as an **Oral Presentation** (top 1.8%)! 
