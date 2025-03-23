@@ -67,6 +67,6 @@ My Group
 
 -- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - (arrhythmias prediction)
 
--- Koki Yoshida, M.Sc student, Osaka University, 2025.4 - (EEG)
+-- Koki Yoshida, M.Sc student, Osaka University, 2025.4 - (EEG, biosignal foundation model)
 
 
