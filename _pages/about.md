@@ -65,8 +65,10 @@ My Group
 
 -- Zihang Wang (Alex), Ph.D student, Waseda University, 2024.10 - (neuromorphic computing)
 
--- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - (arrhythmias prediction)
-
 -- Koki Yoshida, M.Sc student, Osaka University, 2025.4 - (EEG, biosignal foundation model)
+
+-- Yiming Hao, M.Sc student, Osaka University, 2025.4 - (LLM/Agent for bioinformatics)
+
+-- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - 2025.3 (arrhythmias prediction)
 
 
