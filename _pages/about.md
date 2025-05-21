@@ -46,12 +46,6 @@ News
 * \[2024/05/17\]: Congrats to Xihao for his first work, _Fredformer_, accepted by _KDD-24_ Research Track! [[Paper]](https://arxiv.org/abs/2406.09009) [[Code]](https://github.com/chenzRG/Fredformer) [[Presentation]](https://youtu.be/e_reRIr0lCA)
 * \[2024/02/20\]: One paper accepted by _IEEE PES General Meeting_.
 * \[2024/01/03\]: One paper accepted by _IEEE Transactions on Evolutionary Computation_.
-* \[2023/10/13\]: One regular paper accepted by _IEEE BIBM-23_.
-* \[2023/09/22\]: [One paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/b3e866c228f8f4ea18021ae63aea5453-Abstract-Conference.html) accepted by _NeurIPS-23_.
-* \[2023/09/11\]: [One paper](https://arxiv.org/abs/2401.10843) accepted by _ACML-23_. 
-* \[2023/08/05\]: One long paper accepted by _CIKM-23_. Congratulations to Ziwei! [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614970) [[Code]](https://github.com/yangziwei96/MoCLIM) [[Presentation]](https://youtu.be/26uYBmsyiLM)
-* \[2023/04/08\]: [Our paper](https://www.sciencedirect.com/science/article/pii/S0169260723002080?dgcid=author) accepted by _Computer Methods and Programs in Biomedicine_.
-* \[2023/01/13\]: [Our paper](https://ieeexplore.ieee.org/abstract/document/10041186) accepted by _IEEE Transactions on Neural Systems and Rehabilitation Engineering_.
 
 
 
