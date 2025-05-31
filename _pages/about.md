@@ -30,7 +30,7 @@ News
 ======
 
 * \[2025/05/21\]: Our No-Coding Genomic Data Management System has been accepted accepted by _ISMB/ECCB 2025_.
-* \[2025/05/19\]: Our [MLOmics](https://arxiv.org/abs/2409.02143) has been accepted accepted by _Nature Scientific Data_.
+* \[2025/05/19\]: Our [MLOmics](https://doi.org/10.1038/s41597-025-05235-x) has been accepted accepted by _Nature Scientific Data_.
 * \[2025/03/22\]: Congrats to Zihang for receiving 2025-2028 _JST BOOST_ Fellowship!
 * \[2025/03/11\]: Congrats to Koki for receiving 2025-2027 _Humanware Innovation_ Fellowship!
 * \[2025/02/14\]: One paper accepted by _PAKDD-25_.
