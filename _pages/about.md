@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Zheng Chen (陈峥), a specially appointed assistant professor at SANKEN, Osaka University, in [Sakurai&Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp), leading **AIBIC group** (AI for Bio Informatics and Care).
-I received my M.S. and Ph.D. degrees from NAIST, advised by [Prof. Hirokazu Kato](https://scholar.google.co.jp/citations?user=zlyaC60AAAAJ) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in October 2019 and March 2022, respectively. 
+I received Ph.D. degree from NAIST, advised by [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in March 2022. 
 While AI methods have shown promising performance, their recognition and adoption in healthcare and industry remain limited. My research aims to explore reasonable, reliable forms of automated biomedical systems designed on top of prior knowledge and practical considerations. I have a deep-rooted interest in bio-signals, time series data, and biological networks. 
 
 
