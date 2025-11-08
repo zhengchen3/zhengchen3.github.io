@@ -29,7 +29,7 @@ Work Experience
 News
 ======
 
-* \[2025/11/08\]: [Our ExPath](https://arxiv.org/abs/2502.18026) has been accepted accepted by _AAAI-26_!
+* \[2025/11/08\]: Our [ExPath](https://arxiv.org/abs/2502.18026) has been accepted accepted by _AAAI-26_!
 * \[2025/09/18\]: Congrats to Rikuto for his [_EvoBrain_](https://arxiv.org/abs/2509.15857) accepted by _NeurIPS-25_ as **Spotlight**! 
 * \[2025/09/04\]: [One paper](https://arxiv.org/abs/2410.21591) has been accepted accepted by _Nature Biomedical Engineering_!
 * \[2025/05/21\]: Our No-Coding Genomic Data Management System has been accepted accepted by _ISMB/ECCB 2025_.
@@ -70,6 +70,7 @@ My Group
 -- Yiming Wu, M.Sc student, Osaka University, 2025.4 - (LLM/Agent for bioinformatics)
 
 -- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - 2025.3 (arrhythmias prediction)
+
 
 
 
