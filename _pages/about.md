@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am Zheng Chen (陈峥), a specially appointed assistant professor at SANKEN, Osaka University, in [Sakurai&Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp), leading **AIBIC group** (AI for Bio Informatics and Care).
-I received Ph.D. degree from NAIST, advised by [Prof. Ming Huang](https://scholar.google.co.jp/citations?user=sRnYFeQAAAAJ&hl=ja) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in March 2022. 
+I received a Ph.D. degree from NAIST, advised by [Prof. Ming Huang](https://scholar.google.co.jp/citations?user=sRnYFeQAAAAJ&hl=ja) and [Prof. Shigehiko Kanaya](https://scholar.google.co.jp/citations?hl=zh-CN&user=4Onx7zgAAAAJ) in March 2022. 
 My research aims to explore reasonable, reliable forms of automated biomedical systems designed on top of prior knowledge and practical considerations. I have a deep-rooted interest in bio-signals and bioinformatics. 
 
 
@@ -32,7 +32,7 @@ News
 * \[2025/11/08\]: Our [_ExPath_](https://arxiv.org/abs/2502.18026) has been accepted accepted by _AAAI-26_!
 * \[2025/09/18\]: Congrats to Rikuto for his [_EvoBrain_](https://arxiv.org/abs/2509.15857) accepted by _NeurIPS-25_ as **Spotlight**! 
 * \[2025/09/04\]: [One paper](https://arxiv.org/abs/2410.21591) has been accepted accepted by _Nature Biomedical Engineering_!
-* \[2025/05/21\]: Our No-Coding Genomic Data Management System has been accepted by _ISMB/ECCB 2025_.
+* \[2025/05/21\]: One demo paper has been accepted by _ISMB/ECCB 2025_.
 * \[2025/05/19\]: Our [_MLOmics_](https://doi.org/10.1038/s41597-025-05235-x) has been accepted accepted by _Nature Scientific Data_!
 * \[2025/03/22\]: Congrats to Zihang for receiving 2025-2028 _JST BOOST_ Fellowship!
 * \[2025/03/11\]: Congrats to Koki for receiving 2025-2027 _Humanware Innovation_ Fellowship!
@@ -70,6 +70,7 @@ My Group
 -- Yiming Wu, M.Sc student, Osaka University, 2025.4 - (LLM/Agent for bioinformatics)
 
 -- Adil Gafarli, M.Sc student, Osaka University, 2023.4 - 2025.3 (arrhythmias prediction)
+
 
 
 
