@@ -8,7 +8,6 @@
     {% include header.html %}
 
     {% if page.layout == 'homelay' %}
-    <div class="home-tagline">{{ page.tagline | default: site.tagline }}</div>
     <div class="home-carousel-wrapper">{% include home_carousel.html %}</div>
     {% endif %}
 
