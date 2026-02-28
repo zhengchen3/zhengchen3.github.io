@@ -123,13 +123,16 @@ firstp {
   border-bottom: 1px solid #eee;
 }
 
-/* Home page: full-width carousel above main content */
+/* Home page: carousel same width as content below (Coley-style) */
 .home-carousel-wrapper {
   width: 100%;
   margin-bottom: 24px;
   .carousel {
-    margin: 0;
-    border-radius: 0;
+    margin-left: 15px;
+    margin-right: 26px;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-radius: 3px;
     max-height: 420px;
     overflow: hidden;
     .item img {

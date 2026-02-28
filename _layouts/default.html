@@ -7,11 +7,10 @@
 
     {% include header.html %}
 
-    {% if page.layout == 'homelay' %}
-    <div class="home-carousel-wrapper">{% include home_carousel.html %}</div>
-    {% endif %}
-
     <div class="container-fluid">
+      {% if page.layout == 'homelay' %}
+      <div class="home-carousel-wrapper">{% include home_carousel.html %}</div>
+      {% endif %}
       <div class="row">
         {{ content }}
       </div>
