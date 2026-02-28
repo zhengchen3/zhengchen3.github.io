@@ -1,0 +1,57 @@
+- name: Zheng Chen (陈峥)
+  photo: zheng.jpg
+  info: Specially Appointed Associate Professor, SANKEN, Osaka University
+  email: chenz@sanken.osaka-u.ac.jp
+  number_educ: 3
+  education1: Ph.D., NAIST, 2022
+  education2: "<a href='https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en'>Google Scholar</a>"
+  education3: "<a href='https://github.com/chenzRG'>GitHub</a>"
+
+- name: Ziwei Yang
+  photo: photo_dummy.png
+  info: Ph.D. student, Kyoto University (2023 - )
+  email:
+  number_educ: 1
+  education1: Multi-omics data, bio-network
+
+- name: Kotoge Rikuto
+  photo: photo_dummy.png
+  info: Ph.D. student, Osaka University (2024 - )
+  email:
+  number_educ: 1
+  education1: EEG, brain dynamic modeling
+
+- name: Xihao Piao (Paku)
+  photo: photo_dummy.png
+  info: Ph.D. student, Osaka University (2024 - )
+  email:
+  number_educ: 1
+  education1: Time series, fairness
+
+- name: Zihang Wang (Alex)
+  photo: photo_dummy.png
+  info: Ph.D. student, Waseda University (2024 - )
+  email:
+  number_educ: 1
+  education1: Neuromorphic computing
+
+- name: Koki Yoshida
+  photo: photo_dummy.png
+  info: M.Sc. student, Osaka University (2025 - )
+  email:
+  number_educ: 1
+  education1: EEG, biosignal foundation model
+
+- name: Yiming Wu
+  photo: photo_dummy.png
+  info: M.Sc. student, Osaka University (2025 - )
+  email:
+  number_educ: 1
+  education1: LLM / Agent for bioinformatics
+
+- name: "Joining us?"
+  photo: photo_dummy.png
+  info: We welcome motivated students and researchers
+  email: chenz@sanken.osaka-u.ac.jp
+  number_educ: 1
+  education1: Contact us for openings
