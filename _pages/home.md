@@ -14,7 +14,8 @@ Welcome to the AI for Health Group at [SANKEN, Osaka University](https://www.san
 - **Multi-omics & Bioinformatics** — gene networks, multi-omics integration, Agentic AI for biology
 - **Bio-AI Infrastructure** — biomedical databases, knowledge bases, clinical deployment
 
+[Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
+
 **We are always looking for motivated PhD students to join the team!** 
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
 
-[Read more about our research]({{ site.url }}{{ site.baseurl }}/research).

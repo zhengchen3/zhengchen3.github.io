@@ -1,10 +1,11 @@
 
-<div class="well">
-<h4>RECENT NEWS</h4>
-
-{% for article in site.data.news limit:4 %}
-<p>{{ article.date }}<br>{{ article.headline | markdownify}}</p>
-{% endfor %}
-
-<h4><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see more</a></h4>
+<div class="well news-sidebar">
+  <h4 class="news-sidebar-title">RECENT NEWS</h4>
+  {% for article in site.data.news limit:4 %}
+  <div class="news-item">
+    <div class="news-date">{{ article.date }}</div>
+    <div class="news-headline">{{ article.headline | markdownify }}</div>
+  </div>
+  {% endfor %}
+  <h4 class="news-see-more"><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see more</a></h4>
 </div>
