@@ -11,7 +11,6 @@ permalink: /team/
  **We are  looking for self-motivated PhD students and RAs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-## Staff
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
