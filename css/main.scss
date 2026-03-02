@@ -187,13 +187,14 @@ firstp {
     margin-top: 0;
     margin-bottom: 0;
     border-radius: 3px;
-    max-height: 420px;
+    max-height: 450px;
     overflow: hidden;
     .item img {
       width: 100%;
       height: auto;
-      object-fit: cover;
-      max-height: 420px;
+      object-fit: contain;
+      max-height: 450px;
+      background-color: #fefeff;
     }
   }
 }
