@@ -14,6 +14,13 @@
   number_educ: 1
   education1: Multi-omics data, bio-network
 
+- name: Xihao Piao (Paku)
+  photo: photo_dummy.png
+  info: Ph.D. student, Osaka University (2024 - )
+  email:
+  number_educ: 1
+  education1: Time series, AI for bioinformatics, Knowledge Graph
+
 - name: Kotoge Rikuto
   photo: photo_dummy.png
   info: Ph.D. student, Osaka University (2024 - )
@@ -21,12 +28,6 @@
   number_educ: 1
   education1: EEG, brain dynamic modeling
 
-- name: Xihao Piao (Paku)
-  photo: photo_dummy.png
-  info: Ph.D. student, Osaka University (2024 - )
-  email:
-  number_educ: 1
-  education1: Time series, fairness
 
 - name: Zihang Wang (Alex)
   photo: photo_dummy.png
