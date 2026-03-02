@@ -238,6 +238,15 @@ firstp {
   bottom: -10px;
 }
 
+.carousel-indicators li {
+  border: 1px solid #c0c0c0;
+  background-color: transparent;
+}
+
+.carousel-indicators .active {
+  background-color: #c0c0c0;
+}
+
 .carousel-inner .item {
   text-align: center;
 }
