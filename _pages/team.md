@@ -8,7 +8,7 @@ permalink: /team/
 
 {% assign pi = site.data.team_members[0] %}
 
-# {{ pi.name }}
+<h1 class="section-title">Group Leader</h1>
 
 <div class="row">
 <div class="col-sm-12 clearfix">
@@ -53,7 +53,7 @@ permalink: /team/
 </div>
 
 
-# Group Members
+<h1 class="section-title">Group Members</h1>
 
  **We are  looking for self-motivated PhD students and RAs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
@@ -121,7 +121,7 @@ permalink: /team/
 </div>
 {% endif %}
 
-# Alumni
+<h1 class="section-title">Alumni</h1>
 
 <div class="row">
 <div class="col-sm-6 clearfix">
