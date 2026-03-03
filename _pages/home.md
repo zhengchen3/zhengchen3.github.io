@@ -14,7 +14,7 @@ We leverage deep learning to model complex data and support decision-making, and
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
 The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor, and is part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, The University of Osaka.
 
-*** We are always looking for motivated PhD students and RA to join the team! *** 
+**We are always looking for motivated PhD students and RA to join the team!** 
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
 
 
