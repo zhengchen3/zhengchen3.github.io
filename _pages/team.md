@@ -118,6 +118,7 @@ permalink: /team/
     </ul>
   </div>
 </div>
+
 <h1 class="section-title">Alumni</h1>
 
 <div class="row">
