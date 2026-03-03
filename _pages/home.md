@@ -13,7 +13,8 @@ A central theme of our research is to formulate biomedical problems as different
 We leverage deep learning to model complex data and support decision-making, and integrate agentic AI with bioinformatics tools to automate analysis, generate hypotheses, and evaluate results computationally.
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
 The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor, and is part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, The University of Osaka.
-**We are always looking for motivated PhD students and RA to join the team!** 
+
+*** We are always looking for motivated PhD students and RA to join the team! *** 
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
 
 
