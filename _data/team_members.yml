@@ -8,21 +8,21 @@
   education3: "<a href='https://github.com/chenzRG'>GitHub</a>"
 
 - name: Ziwei Yang
-  photo: photo_dummy.png
+  photo: ziwei.jpg
   info: Ph.D. student, Kyoto University (2023 - )
   email:
   number_educ: 1
   education1: Multi-omics data, bio-network
 
 - name: Xihao Piao (Paku)
-  photo: photo_dummy.png
+  photo: xihao.jpg
   info: Ph.D. student, Osaka University (2024 - )
   email:
   number_educ: 1
   education1: Time series, AI for bioinformatics, Knowledge Graph
 
 - name: Kotoge Rikuto
-  photo: photo_dummy.png
+  photo: rikuto.jpg
   info: Ph.D. student, Osaka University (2024 - )
   email:
   number_educ: 1
@@ -30,21 +30,21 @@
 
 
 - name: Zihang Wang (Alex)
-  photo: photo_dummy.png
+  photo: hugo.jpg
   info: Ph.D. student, Waseda University (2024 - )
   email:
   number_educ: 1
   education1: Neuromorphic computing
 
 - name: Koki Yoshida
-  photo: photo_dummy.png
+  photo: koki.jpg
   info: M.Sc. student, Osaka University (2025 - )
   email:
   number_educ: 1
   education1: EEG, biosignal foundation model
 
 - name: Yiming Wu
-  photo: photo_dummy.png
+  photo: yiming.jpg
   info: M.Sc. student, Osaka University (2025 - )
   email:
   number_educ: 1
