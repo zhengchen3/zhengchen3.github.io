@@ -3,7 +3,7 @@
   info: Specially Appointed Associate Professor, SANKEN, Osaka University
   email: chenz@sanken.osaka-u.ac.jp
   number_educ: 3
-  education1: Ph.D., NAIST, 2022
+  # education1: Ph.D., NAIST, 2022
   education2: "<a href='https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en'>Google Scholar</a>"
   education3: "<a href='https://github.com/chenzRG'>GitHub</a>"
 
@@ -30,7 +30,7 @@
 
 
 - name: Zihang Wang (Alex)
-  photo: hugo.jpg
+  photo: zihang.jpg
   info: Ph.D. student, Waseda University (2024 - )
   email:
   number_educ: 1
