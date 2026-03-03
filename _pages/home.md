@@ -12,10 +12,18 @@ Our work has produced transformative advances in EEG representation learning for
 A central theme of our research is to formulate biomedical problems as different solvable machine learning tasks. 
 We leverage deep learning to model complex data and support decision-making, and integrate agentic AI with bioinformatics tools to automate analysis, generate hypotheses, and evaluate results computationally.
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
-The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor, and is part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, The University of Osaka.
+[Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
 
-**We are always looking for motivated PhD students and RA to join the team!** 
+The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
+His work has been published in leading venues in machine learning and biomedicine, including NeurIPS, ICLR, and Nature Biomedical Engineering.
+**Our group is always looking for motivated PhD students and remote RAs to join the team!**
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
+
+
+<!-- The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, Osaka University.
+Dr. Chen publications in top-tier both conference venue including NeurIPS, ICLR, and KDD, and Biomedicine Journal, e.g., Nature Biomedical Engineering.
+**We are always looking for motivated PhD students and RA to join the team!** 
+Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp). -->
 
 
 <!-- are the part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, Osaka University,
