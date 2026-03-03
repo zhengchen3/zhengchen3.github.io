@@ -43,14 +43,6 @@
   number_educ: 1
   education1: LLM / Agent for bioinformatics
 
-- name: Ziwei Yang
-  photo: ziwei.jpg
-  info: PhD Student, Kyoto University (2023.4 - 2026.3)
-  email:
-  number_educ: 1
-  education1: Multi-omics data, bio-network
-
-
 
 - name: "Joining us?"
   photo: photo_dummy.png
@@ -58,3 +50,11 @@
   email: chenz@sanken.osaka-u.ac.jp
   number_educ: 1
   education1: Contact us for openings
+
+
+- name: Ziwei Yang
+  photo: ziwei.jpg
+  info: PhD Student, Kyoto University (2023.4 - 2026.3)
+  email:
+  number_educ: 1
+  education1: Multi-omics data, bio-network

@@ -55,72 +55,69 @@ permalink: /team/
 
 <h1 class="section-title">Group Members</h1>
 
- **We are  looking for self-motivated PhD students and RAs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+<p><strong>We are  looking for self-motivated PhD students and RAs to join the team</strong>
+(<a href="{{ site.url }}{{ site.baseurl }}/vacancies">see openings</a>)!</p>
 
-
-{% assign number_printed = 0 %}
-{% for member in site.data.team_members offset:1 %}
-
-{% if member.name != "Ziwei Yang" %}
-  {% assign even_odd = number_printed | modulo: 2 %}
-
-  {% if even_odd == 0 %}
-  <div class="row">
-  {% endif %}
-
+<div class="row">
   <div class="col-sm-6 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}" style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
-    <h4>{{ member.name }}</h4>
-    <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/xihao.jpg"
+         alt="Xihao Piao (Paku)"
+         style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+    <h4>Xihao Piao (Paku)</h4>
+    <i>Ph.D. student, Osaka University (2024 - )</i>
     <ul style="overflow: hidden">
-
-    {% if member.number_educ == 1 %}
-    <li> {{ member.education1 }} </li>
-    {% endif %}
-
-    {% if member.number_educ == 2 %}
-    <li> {{ member.education1 | markdownify}} </li>
-    <li> {{ member.education2 | markdownify}} </li>
-    {% endif %}
-
-    {% if member.number_educ == 3 %}
-    <li> {{ member.education1 | markdownify}} </li>
-    <li> {{ member.education2 | markdownify}} </li>
-    <li> {{ member.education3 | markdownify}} </li>
-    {% endif %}
-
-    {% if member.number_educ == 4 %}
-    <li> {{ member.education1 | markdownify}} </li>
-    <li> {{ member.education2 | markdownify}} </li>
-    <li> {{ member.education3 | markdownify}} </li>
-    <li> {{ member.education4 | markdownify}} </li>
-    {% endif %}
-
-    {% if member.number_educ == 5 %}
-    <li> {{ member.education1 | markdownify}} </li>
-    <li> {{ member.education2 | markdownify}} </li>
-    <li> {{ member.education3 | markdownify}} </li>
-    <li> {{ member.education4 | markdownify}} </li>
-    <li> {{ member.education5 | markdownify}} </li>
-    {% endif %}
-
+      <li>Time series, AI for bioinformatics, Knowledge Graph</li>
     </ul>
   </div>
 
-  {% assign number_printed = number_printed | plus: 1 %}
-
-  {% if even_odd == 1 %}
+  <div class="col-sm-6 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/rikuto.jpg"
+         alt="Kotoge Rikuto"
+         style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+    <h4>Kotoge Rikuto</h4>
+    <i>Ph.D. student, Osaka University (2024 - )</i>
+    <ul style="overflow: hidden">
+      <li>EEG, brain dynamic modeling</li>
+    </ul>
   </div>
-  {% endif %}
-{% endif %}
-
-{% endfor %}
-
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
 </div>
-{% endif %}
 
+<div class="row">
+  <div class="col-sm-6 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zihang.jpg"
+         alt="Zihang Wang (Alex)"
+         style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+    <h4>Zihang Wang (Alex)</h4>
+    <i>Ph.D. student, Waseda University (2024 - )</i>
+    <ul style="overflow: hidden">
+      <li>Neuromorphic computing</li>
+    </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/koki.jpg"
+         alt="Koki Yoshida"
+         style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+    <h4>Koki Yoshida</h4>
+    <i>M.Sc. student, Osaka University (2025 - )</i>
+    <ul style="overflow: hidden">
+      <li>EEG, biosignal foundation model</li>
+    </ul>
+  </div>
+</div>
+
+<div class="row">
+  <div class="col-sm-6 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/yiming.jpg"
+         alt="Yiming Wu"
+         style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+    <h4>Yiming Wu</h4>
+    <i>M.Sc. student, Osaka University (2025 - )</i>
+    <ul style="overflow: hidden">
+      <li>LLM / Agent for bioinformatics</li>
+    </ul>
+  </div>
+</div>
 <h1 class="section-title">Alumni</h1>
 
 <div class="row">
