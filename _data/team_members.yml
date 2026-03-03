@@ -10,17 +10,24 @@
 
 - name: Xihao Piao (Paku)
   photo: xihao.jpg
-  info: Ph.D. student, Osaka University (2024 - )
+  info: PhD Student, Osaka University (2024 - )
   email:
   number_educ: 1
   education1: Time series, AI for bioinformatics, Knowledge Graph
 
 - name: Kotoge Rikuto
   photo: rikuto.jpg
-  info: Ph.D. student, Osaka University (2024 - )
+  info: PhD Student, Osaka University (2024 - )
   email:
   number_educ: 1
   education1: EEG, brain dynamic modeling
+
+- name: Zihang Wang (Alex)
+  photo: zihang.jpg
+  info: PhD Student, Waseda University (2024 - )
+  email:
+  number_educ: 1
+  education1: Neuromorphic computing
 
 - name: Koki Yoshida
   photo: koki.jpg
@@ -43,12 +50,7 @@
   number_educ: 1
   education1: Multi-omics data, bio-network
 
-- name: Zihang Wang (Alex)
-  photo: zihang.jpg
-  info: Research Associate, Ph.D. student, Waseda University (2024 - )
-  email:
-  number_educ: 1
-  education1: Neuromorphic computing
+
 
 - name: "Joining us?"
   photo: photo_dummy.png

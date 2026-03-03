@@ -6,13 +6,60 @@ sitemap: false
 permalink: /team/
 ---
 
+{% assign pi = site.data.team_members[0] %}
+
+# {{ pi.name }}
+
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" alt="{{ pi.name }}" style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+  <h3>{{ pi.name }}</h3>
+  <i>{{ pi.info }}</i>
+  <ul style="overflow: hidden">
+
+  {% if pi.number_educ == 1 %}
+  <li> {{ pi.education1 }} </li>
+  {% endif %}
+
+  {% if pi.number_educ == 2 %}
+  <li> {{ pi.education1 | markdownify}} </li>
+  <li> {{ pi.education2 | markdownify}} </li>
+  {% endif %}
+
+  {% if pi.number_educ == 3 %}
+  <li> {{ pi.education1 | markdownify}} </li>
+  <li> {{ pi.education2 | markdownify}} </li>
+  <li> {{ pi.education3 | markdownify}} </li>
+  {% endif %}
+
+  {% if pi.number_educ == 4 %}
+  <li> {{ pi.education1 | markdownify}} </li>
+  <li> {{ pi.education2 | markdownify}} </li>
+  <li> {{ pi.education3 | markdownify}} </li>
+  <li> {{ pi.education4 | markdownify}} </li>
+  {% endif %}
+
+  {% if pi.number_educ == 5 %}
+  <li> {{ pi.education1 | markdownify}} </li>
+  <li> {{ pi.education2 | markdownify}} </li>
+  <li> {{ pi.education3 | markdownify}} </li>
+  <li> {{ pi.education4 | markdownify}} </li>
+  <li> {{ pi.education5 | markdownify}} </li>
+  {% endif %}
+
+  </ul>
+  <p></p>
+</div>
+</div>
+
+
 # Group Members
 
  **We are  looking for self-motivated PhD students and RAs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
 {% assign number_printed = 0 %}
-{% for member in site.data.team_members %}
+{% for member in site.data.team_members offset:1 %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
