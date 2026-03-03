@@ -11,61 +11,61 @@ permalink: /team/
 <h1 class="section-title">Group Leader</h1>
 
 <div class="row">
-  <div class="col-sm-4 text-center">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" alt="{{ pi.name }}" style="margin-bottom:12px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
-  </div>
-  <div class="col-sm-8 clearfix">
-    <h4>{{ pi.name }}</h4>
-    <i>{{ pi.info }}</i>
-    <ul style="overflow: hidden">
+<div class="col-sm-4 text-center">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" alt="{{ pi.name }}" style="margin-bottom:12px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+</div>
+<div class="col-sm-8 clearfix">
+<h4>{{ pi.name }}</h4>
+<i>{{ pi.info }}</i>
+<ul style="overflow: hidden">
 
-    {% if pi.number_educ == 1 %}
-    <li> {{ pi.education1 }} </li>
-    {% endif %}
+{% if pi.number_educ == 1 %}
+<li> {{ pi.education1 }} </li>
+{% endif %}
 
-    {% if pi.number_educ == 2 %}
-    <li> {{ pi.education1 | markdownify}} </li>
-    <li> {{ pi.education2 | markdownify}} </li>
-    {% endif %}
+{% if pi.number_educ == 2 %}
+<li> {{ pi.education1 | markdownify}} </li>
+<li> {{ pi.education2 | markdownify}} </li>
+{% endif %}
 
-    {% if pi.number_educ == 3 %}
-    <li> {{ pi.education1 | markdownify}} </li>
-    <li> {{ pi.education2 | markdownify}} </li>
-    <li> {{ pi.education3 | markdownify}} </li>
-    {% endif %}
+{% if pi.number_educ == 3 %}
+<li> {{ pi.education1 | markdownify}} </li>
+<li> {{ pi.education2 | markdownify}} </li>
+<li> {{ pi.education3 | markdownify}} </li>
+{% endif %}
 
-    {% if pi.number_educ == 4 %}
-    <li> {{ pi.education1 | markdownify}} </li>
-    <li> {{ pi.education2 | markdownify}} </li>
-    <li> {{ pi.education3 | markdownify}} </li>
-    <li> {{ pi.education4 | markdownify}} </li>
-    {% endif %}
+{% if pi.number_educ == 4 %}
+<li> {{ pi.education1 | markdownify}} </li>
+<li> {{ pi.education2 | markdownify}} </li>
+<li> {{ pi.education3 | markdownify}} </li>
+<li> {{ pi.education4 | markdownify}} </li>
+{% endif %}
 
-    {% if pi.number_educ == 5 %}
-    <li> {{ pi.education1 | markdownify}} </li>
-    <li> {{ pi.education2 | markdownify}} </li>
-    <li> {{ pi.education3 | markdownify}} </li>
-    <li> {{ pi.education4 | markdownify}} </li>
-    <li> {{ pi.education5 | markdownify}} </li>
-    {% endif %}
+{% if pi.number_educ == 5 %}
+<li> {{ pi.education1 | markdownify}} </li>
+<li> {{ pi.education2 | markdownify}} </li>
+<li> {{ pi.education3 | markdownify}} </li>
+<li> {{ pi.education4 | markdownify}} </li>
+<li> {{ pi.education5 | markdownify}} </li>
+{% endif %}
 
-    </ul>
+</ul>
 
-    <p>
-      Zheng Chen is a Specially Appointed Associate Professor at SANKEN, Osaka University.
-      His research lies at the intersection of machine learning, signal processing, and
-      biomedical data analysis, with a focus on EEG representation learning, multi-omics
-      integration, and agentic AI workflows for clinical and translational research.
-    </p>
+<p>
+Zheng Chen is a Specially Appointed Associate Professor at SANKEN, Osaka University.
+His research lies at the intersection of machine learning, signal processing, and
+biomedical data analysis, with a focus on EEG representation learning, multi-omics
+integration, and agentic AI workflows for clinical and translational research.
+</p>
 
-    <p>
-      Before joining SANKEN, he received his Ph.D. from NAIST and has worked closely with
-      clinicians and collaborators in neuroscience and oncology. His work has been
-      published in venues such as NeurIPS, ICLR, and Nature Biomedical Engineering.
-      The group aims to develop methods that are not only accurate on benchmarks, but
-      also interpretable and deployable in real-world biomedical settings.
-    </p>
-  </div>
+<p>
+Before joining SANKEN, he received his Ph.D. from NAIST and has worked closely with
+clinicians and collaborators in neuroscience and oncology. His work has been
+published in venues such as NeurIPS, ICLR, and Nature Biomedical Engineering.
+The group aims to develop methods that are not only accurate on benchmarks, but
+also interpretable and deployable in real-world biomedical settings.
+</p>
+</div>
 </div>
 
 <h1 class="section-title">Group Members</h1>
