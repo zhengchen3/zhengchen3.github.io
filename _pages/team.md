@@ -13,7 +13,7 @@ permalink: /team/
 <div class="row">
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ pi.photo }}" alt="{{ pi.name }}" style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
-  <h3>{{ pi.name }}</h3>
+  <h4>{{ pi.name }}</h4>
   <i>{{ pi.info }}</i>
   <ul style="overflow: hidden">
 
@@ -63,7 +63,7 @@ permalink: /team/
 alt="Xihao Piao (Paku)"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Xihao Piao (Paku)</h4>
-<i>Ph.D. student, Osaka University (2024 - )</i>
+<i>PhD Student, Osaka University (2024 - )</i>
 <ul style="overflow: hidden">
 <li>Time series, AI for bioinformatics, Knowledge Graph</li>
 </ul>
@@ -74,7 +74,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 alt="Kotoge Rikuto"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Kotoge Rikuto</h4>
-<i>Ph.D. student, Osaka University (2024 - )</i>
+<i>PhD Student, Osaka University (2024 - )</i>
 <ul style="overflow: hidden">
 <li>EEG, brain dynamic modeling</li>
 </ul>
@@ -87,7 +87,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 alt="Zihang Wang (Alex)"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Zihang Wang (Alex)</h4>
-<i>Ph.D. student, Waseda University (2024 - )</i>
+<i>PhD Student, Waseda University (2024 - )</i>
 <ul style="overflow: hidden">
 <li>Neuromorphic computing</li>
 </ul>
