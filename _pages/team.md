@@ -66,25 +66,25 @@ The group aims to develop methods that are not only accurate on benchmarks, but
 also interpretable and deployable in real-world biomedical settings.
 </p>
 
-<div class="member-links" style="display:flex; flex-direction:row; gap:12px; align-items:center;">
+<div class="member-links">
  {% if pi.scholar %}
  <a href="{{ pi.scholar }}" title="Google Scholar" target="_blank" class="member-icon">
- <span class="glyphicon glyphicon-education"></span>
+   <i class="fa-solid fa-graduation-cap"></i>
  </a>
  {% endif %}
  {% if pi.github %}
  <a href="{{ pi.github }}" title="GitHub" target="_blank" class="member-icon">
- <span class="glyphicon glyphicon-console"></span>
+   <i class="fa-brands fa-github"></i>
  </a>
  {% endif %}
  {% if pi.linkedin %}
  <a href="{{ pi.linkedin }}" title="LinkedIn" target="_blank" class="member-icon">
- <span class="glyphicon glyphicon-briefcase"></span>
+   <i class="fa-brands fa-linkedin"></i>
  </a>
  {% endif %}
  {% if pi.email %}
  <a href="mailto:{{ pi.email }}" title="Email" class="member-icon">
- <span class="glyphicon glyphicon-envelope"></span>
+   <i class="fa-solid fa-envelope"></i>
  </a>
  {% endif %}
 </div>
