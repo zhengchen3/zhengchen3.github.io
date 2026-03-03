@@ -205,7 +205,10 @@ firstp {
     margin-right: 26px;
     margin-top: 0;
     margin-bottom: 0;
-    border-radius: 3px;
+    border-radius: 6px;
+    border: 1px solid #d6d6d6;
+    background-color: #f7f7f7;
+    box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
     max-height: 450px;
     overflow: hidden;
     .item img {
