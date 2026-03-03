@@ -21,9 +21,7 @@ permalink: /team/
 {% endif %}
 
 <div class="col-sm-6 clearfix">
-  <div class="image-cropper" style="float:left; margin-right:16px;">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="person-pic" alt="{{ member.name }}" />
-  </div>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" alt="{{ member.name }}" style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
   <ul style="overflow: hidden">
