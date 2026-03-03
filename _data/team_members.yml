@@ -1,9 +1,9 @@
 - name: Zheng Chen (陈峥)
   photo: zheng.jpg
-  info: Specially Appointed Associate Professor, SANKEN, Osaka University
-  email: chenz@sanken.osaka-u.ac.jp
-  number_educ: 1
-  education1: Ph.D., NAIST, 2022
+  # info: Specially Appointed Associate Professor, SANKEN, Osaka University
+  # email: chenz@sanken.osaka-u.ac.jp
+  # number_educ: 1
+  # education1: Ph.D., NAIST, 2022
   scholar: "https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en"
   github: "https://github.com/chenzRG"
   linkedin: ""
