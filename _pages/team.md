@@ -124,9 +124,9 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 <div class="col-sm-6 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/ziwei.jpg" alt="Ziwei Yang" style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
   <h4>Ziwei Yang</h4>
-  <i>Research Associate, Kyoto University (2023 - )</i>
+  <i>PhD Student, Kyoto University (2023.4 - 2026.3)</i>
   <ul style="overflow: hidden">
-    <li>Multi-omics data, bio-network</li>
+    <li>Multi-omics data, Bio-network</li>
   </ul>
 </div>
 </div>
