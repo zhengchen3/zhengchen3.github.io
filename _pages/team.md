@@ -51,6 +51,29 @@ permalink: /team/
 
 </ul>
 
+<div class="member-links">
+  {% if pi.scholar %}
+    <a href="{{ pi.scholar }}" title="Google Scholar" target="_blank" class="member-icon">
+      <span class="glyphicon glyphicon-education"></span>
+    </a>
+  {% endif %}
+  {% if pi.github %}
+    <a href="{{ pi.github }}" title="GitHub" target="_blank" class="member-icon">
+      <span class="glyphicon glyphicon-console"></span>
+    </a>
+  {% endif %}
+  {% if pi.linkedin %}
+    <a href="{{ pi.linkedin }}" title="LinkedIn" target="_blank" class="member-icon">
+      <span class="glyphicon glyphicon-briefcase"></span>
+    </a>
+  {% endif %}
+  {% if pi.email %}
+    <a href="mailto:{{ pi.email }}" title="Email" class="member-icon">
+      <span class="glyphicon glyphicon-envelope"></span>
+    </a>
+  {% endif %}
+</div>
+
 <p>
 Zheng Chen is a Specially Appointed Associate Professor at SANKEN, Osaka University.
 His research lies at the intersection of machine learning, signal processing, and

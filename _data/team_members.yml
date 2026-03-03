@@ -1,12 +1,12 @@
 - name: Zheng Chen (陈峥)
   photo: zheng.jpg
-  # info: Specially Appointed Associate Professor, SANKEN, Osaka University
-  # email: chenz@sanken.osaka-u.ac.jp
-  # number_educ: 3
-  # # education1: Ph.D., NAIST, 2022
-  # education2: "<a href='https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en'>Google Scholar</a>"
-  # education3: "<a href='https://github.com/chenzRG'>GitHub</a>"
-
+  info: Specially Appointed Associate Professor, SANKEN, Osaka University
+  email: chenz@sanken.osaka-u.ac.jp
+  number_educ: 1
+  education1: Ph.D., NAIST, 2022
+  scholar: "https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en"
+  github: "https://github.com/chenzRG"
+  linkedin: ""
 
 - name: Xihao Piao (Paku)
   photo: xihao.jpg
