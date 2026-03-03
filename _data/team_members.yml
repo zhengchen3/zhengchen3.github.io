@@ -31,21 +31,21 @@
 
 - name: Koki Yoshida
   photo: koki.jpg
-  info: M.Sc. student, Osaka University (2025 - )
+  info: M.Sc. Student, Osaka University (2025 - )
   email:
   number_educ: 1
   education1: EEG, biosignal foundation model
 
 - name: Yiming Wu
   photo: yiming.jpg
-  info: M.Sc. student, Osaka University (2025 - )
+  info: M.Sc. Student, Osaka University (2025 - )
   email:
   number_educ: 1
   education1: LLM / Agent for bioinformatics
 
 - name: Ziwei Yang
   photo: ziwei.jpg
-  info: Research Associate, Kyoto University (2023 - )
+  info: PhD Student, Kyoto University (2023.4 - 2026.3)
   email:
   number_educ: 1
   education1: Multi-omics data, bio-network
