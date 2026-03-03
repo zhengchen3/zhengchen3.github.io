@@ -66,7 +66,7 @@ The group aims to develop methods that are not only accurate on benchmarks, but
 also interpretable and deployable in real-world biomedical settings.
 </p>
 
-<div class="member-links">
+<div class="member-links" style="display:flex; flex-direction:row; gap:12px; align-items:center;">
  {% if pi.scholar %}
  <a href="{{ pi.scholar }}" title="Google Scholar" target="_blank" class="member-icon">
    <i class="fa-solid fa-graduation-cap"></i>
