@@ -49,30 +49,7 @@ permalink: /team/
 <li> {{ pi.education5 | markdownify}} </li>
 {% endif %}
 
-</ul>
-
-<div class="member-links">
-{% if pi.scholar %}
-<a href="{{ pi.scholar }}" title="Google Scholar" target="_blank" class="member-icon">
-<span class="glyphicon glyphicon-education"></span>
-</a>
-{% endif %}
-{% if pi.github %}
-<a href="{{ pi.github }}" title="GitHub" target="_blank" class="member-icon">
-<span class="glyphicon glyphicon-console"></span>
-</a>
-{% endif %}
-{% if pi.linkedin %}
-<a href="{{ pi.linkedin }}" title="LinkedIn" target="_blank" class="member-icon">
-<span class="glyphicon glyphicon-briefcase"></span>
-</a>
-{% endif %}
-{% if pi.email %}
-<a href="mailto:{{ pi.email }}" title="Email" class="member-icon">
-<span class="glyphicon glyphicon-envelope"></span>
-</a>
-{% endif %}
-</div>
+ </ul>
 
 <p>
 Zheng Chen is a Specially Appointed Associate Professor at SANKEN, Osaka University.
@@ -88,6 +65,29 @@ published in venues such as NeurIPS, ICLR, and Nature Biomedical Engineering.
 The group aims to develop methods that are not only accurate on benchmarks, but
 also interpretable and deployable in real-world biomedical settings.
 </p>
+
+<div class="member-links">
+ {% if pi.scholar %}
+ <a href="{{ pi.scholar }}" title="Google Scholar" target="_blank" class="member-icon">
+ <span class="glyphicon glyphicon-education"></span>
+ </a>
+ {% endif %}
+ {% if pi.github %}
+ <a href="{{ pi.github }}" title="GitHub" target="_blank" class="member-icon">
+ <span class="glyphicon glyphicon-console"></span>
+ </a>
+ {% endif %}
+ {% if pi.linkedin %}
+ <a href="{{ pi.linkedin }}" title="LinkedIn" target="_blank" class="member-icon">
+ <span class="glyphicon glyphicon-briefcase"></span>
+ </a>
+ {% endif %}
+ {% if pi.email %}
+ <a href="mailto:{{ pi.email }}" title="Email" class="member-icon">
+ <span class="glyphicon glyphicon-envelope"></span>
+ </a>
+ {% endif %}
+</div>
 </div>
 </div>
 
