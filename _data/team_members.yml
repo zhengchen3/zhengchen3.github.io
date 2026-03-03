@@ -7,12 +7,6 @@
   education2: "<a href='https://scholar.google.com/citations?user=571LAh4AAAAJ&hl=en'>Google Scholar</a>"
   education3: "<a href='https://github.com/chenzRG'>GitHub</a>"
 
-- name: Ziwei Yang
-  photo: ziwei.jpg
-  info: Ph.D. student, Kyoto University (2023 - )
-  email:
-  number_educ: 1
-  education1: Multi-omics data, bio-network
 
 - name: Xihao Piao (Paku)
   photo: xihao.jpg
@@ -28,14 +22,6 @@
   number_educ: 1
   education1: EEG, brain dynamic modeling
 
-
-- name: Zihang Wang (Alex)
-  photo: zihang.jpg
-  info: Ph.D. student, Waseda University (2024 - )
-  email:
-  number_educ: 1
-  education1: Neuromorphic computing
-
 - name: Koki Yoshida
   photo: koki.jpg
   info: M.Sc. student, Osaka University (2025 - )
@@ -49,6 +35,20 @@
   email:
   number_educ: 1
   education1: LLM / Agent for bioinformatics
+
+- name: Ziwei Yang
+  photo: ziwei.jpg
+  info: Research Associate, Kyoto University (2023 - )
+  email:
+  number_educ: 1
+  education1: Multi-omics data, bio-network
+
+- name: Zihang Wang (Alex)
+  photo: zihang.jpg
+  info: Research Associate, Ph.D. student, Waseda University (2024 - )
+  email:
+  number_educ: 1
+  education1: Neuromorphic computing
 
 - name: "Joining us?"
   photo: photo_dummy.png
