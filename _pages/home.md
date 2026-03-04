@@ -15,7 +15,7 @@ We leverage deep learning to model complex data and support decision-making, and
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
 *Research directions:*
 - EEG & Neuroscience — brain dynamic modeling, disease prediction, neuromorphic computing, diagnostic automation.
-- Multi-omics data & Drug Discovery — multi-omics analysis frameworks, knowledge graphs, AI-ready infrastructure, and bio-AI agents.
+- Multi-omics & Drug discovery — omics analysis frameworks, knowledge graph, AI-ready infrastructure, and AI agents.
 
 [Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
 
