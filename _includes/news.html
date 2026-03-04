@@ -1,7 +1,7 @@
 
 <div class="well news-sidebar">
   <h4 class="news-sidebar-title">RECENT NEWS</h4>
-  {% for article in site.data.news limit:4 %}
+  {% for article in site.data.news limit:5 %}
   <div class="news-item">
     <div class="news-date">{{ article.date }}</div>
     <div class="news-headline">{{ article.headline | markdownify }}</div>
