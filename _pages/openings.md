@@ -56,3 +56,6 @@ RA-2. You will work on genomics, transcriptomics, proteomics, and metabolomics d
 To apply for an RA position, please email [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with a CV highlighting technical skills and relevant projects.  
 
 Please use one of the subject lines: `Application – RA`.
+
+
+<div style="height:40px;"></div>
