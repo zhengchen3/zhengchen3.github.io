@@ -23,7 +23,7 @@ Applicants should first read our [Research page]({{ site.url }}{{ site.baseurl }
 
 We typically have one PhD opening per year. Applicants may come from backgrounds including computer science, biomedical engineering, bioinformatics, or computational biology.
 
-If you are interested in a PhD position, please send an email to [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with:
+If you are interested in this position, please send an email to [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with:
 
 1. Your CV (education, publications, and relevant projects).
 2. Language proficiency test scores (English or Japanese; Japanese is not required).
