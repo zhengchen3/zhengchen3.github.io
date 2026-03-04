@@ -19,9 +19,13 @@ Our work is grounded in prior knowledge and practical constraints, ensuring tran
 
 [Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
 
-Our group is always looking for motivated PhD students and remote RAs to join the team!
+We are always looking for motivated PhD students and remote research assistants (RAs) to join our group!
+We welcome PhD applicants with backgrounds in computer science, biomedical engineering, or bioinformatics.
+Current projects include oncology data analysis, metabolic network modeling, bioinformatics pipelines, and R-based analytical workflows.
 We also welcome collaborations with industry partners in health and biomedical research.
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
+
+
 
 <!-- The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
 His work has been published in leading venues in machine learning and biomedicine, including NeurIPS, ICLR, and Nature Biomedical Engineering.
