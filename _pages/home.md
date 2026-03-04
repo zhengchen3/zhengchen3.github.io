@@ -9,7 +9,7 @@ permalink: /
 
 Our group s led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
 We combine computer science, biomedical engineering, and bioinformatics to support clinical practice and accelerate biomarker discovery.
-Our work has produced transformative advances in EEG representation learning for brain dynamics modeling, and computational frameworks for oncology data analysis, insight generation, and automated analytical workflows.
+Our work has produced transformative advances in EEG representation learning for brain dynamics modeling, and computational frameworks for oncology data analysis, and automated analytical workflows.
 A central theme of our research is to formulate biomedical problems as different solvable machine learning tasks. 
 We leverage deep learning to model complex data and support decision-making, and integrate agentic AI with bioinformatics tools to automate analysis, generate hypotheses, and evaluate results computationally.
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
