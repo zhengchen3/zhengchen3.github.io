@@ -6,9 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
 
----
 
 ## EEG representation learning, brain modeling, and clinical support
 
