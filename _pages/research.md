@@ -22,7 +22,7 @@ Beyond benchmark performance, we emphasize models that are stable across recordi
 - Chen, Z., et al. “TFM: Time-Frequency Modeling for EEG-based Clinical Prediction” _ICLR_ (2026). [arXiv:2502.16060](https://arxiv.org/abs/2502.16060)
 - Chen, Z., et al. “ODEBrain: Neural ODEs for Brain Dynamics Modeling” _ICLR_ (2026). [arXiv:2502.23285](https://arxiv.org/abs/2502.23285)
 - Chen, Z., et al. “EvoBrain: Self-evolving EEG Representation Learning for Brain State Modeling” _NeurIPS_ [Spotlight] (2025). [arXiv:2509.15857](https://arxiv.org/abs/2509.15857)
-- Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178)
+<!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
 ---
 
 ## Multi-omics learning, knowledge graphs, and agentic AI workflows
