@@ -6,13 +6,20 @@ sitemap: false
 permalink: /vacancies
 ---
 
-
-We welcome motivated students and research assistants to join our group.
-All applicants should first read our [Research page]({{ site.url }}{{ site.baseurl }}/research/) to understand our current projects and see whether your interests align.
+<style>
+@media (min-height: 600px) {
+  #textid {
+    min-height: calc(100vh - 260px);
+  }
+}
+</style>
 
 ## PhD positions
 
-We typically have one PhD student opening per year. Suitable backgrounds include computer science, biomedical engineering, and bioinformatics or computational biology. 
+We welcome motivated students to join our group.
+Applicants should first read our [Research page]({{ site.url }}{{ site.baseurl }}/research/) to understand our current projects and see whether your interests align.
+We typically have one PhD student opening per year. 
+Backgrounds include computer science, biomedical engineering, and bioinformatics or computational biology. 
 
 If you are interested in a PhD position, please send an email to [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with:
 
