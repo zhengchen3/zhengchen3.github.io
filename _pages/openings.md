@@ -38,7 +38,7 @@ Please use the subject line: `Application – PhD`.
 
 ## Research assistant (RA) positions - AI for drug discovery
 
-Our team recruit RAs to work on projects aiming for publications in top AI conferences (e.g., ICLR, NeurIPS) or leading bioinformatics journals. Below are two typical RA profiles.
+Our team recruit RAs to work on projects aiming for publications in top AI conferences (e.g., ICLR, NeurIPS) or leading bioinformatics journals. Below are two typical profiles.
 
 
 *RA-1*. You will help build agentic AI data analysis pipelines for drug discovery projects using real-world data.
