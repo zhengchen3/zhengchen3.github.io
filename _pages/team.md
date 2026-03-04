@@ -103,7 +103,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 <h4>Xihao Piao (Paku)</h4>
 <i>PhD Student, Osaka University (2024 - )</i>
 <ul style="overflow: hidden">
-<li>Time series, AI for bioinformatics, Knowledge Graph</li>
+<li>Time series, Bio AI Agent, Knowledge Graph</li>
 </ul>
 </div>
 
@@ -114,7 +114,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 <h4>Kotoge Rikuto</h4>
 <i>PhD Student, Osaka University (2024 - )</i>
 <ul style="overflow: hidden">
-<li>EEG, brain dynamic modeling</li>
+<li>EEG, Brain dynamic modeling</li>
 </ul>
 </div>
 </div>
@@ -138,7 +138,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 <h4>Koki Yoshida</h4>
 <i>M.Sc. student, Osaka University (2025 - )</i>
 <ul style="overflow: hidden">
-<li>EEG, biosignal foundation model</li>
+<li>EEG, Foundation model</li>
 </ul>
 </div>
 </div>
@@ -151,7 +151,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 <h4>Yiming Wu</h4>
 <i>M.Sc. student, Osaka University (2025 - )</i>
 <ul style="overflow: hidden">
-<li>LLM / Agent for bioinformatics</li>
+<li>Bio AI Agent, Metabolic Modeling</li>
 </ul>
 </div>
 </div>
