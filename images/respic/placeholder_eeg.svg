@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="200" viewBox="0 0 800 200">
+  <rect width="800" height="200" fill="#e8e8e8"/>
+  <text x="400" y="110" text-anchor="middle" font-family="sans-serif" font-size="18" fill="#888">EEG: Representation Learning � Brain Modeling � Clinical Support</text>
+  <text x="400" y="135" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#aaa">(placeholder  replace with overview figure)</text>
+</svg>
