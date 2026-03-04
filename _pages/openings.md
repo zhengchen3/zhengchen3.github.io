@@ -18,13 +18,19 @@ permalink: /vacancies
 
 We welcome motivated students to join our group.
 Applicants should first read our [Research page]({{ site.url }}{{ site.baseurl }}/research/) to understand our current projects and see whether your interests align.
-We typically have one PhD student opening per year. 
-Backgrounds include computer science, biomedical engineering, and bioinformatics or computational biology. 
+
+We typically have one PhD opening per year. Applicants may come from backgrounds including computer science, biomedical engineering, bioinformatics, or computational biology.
 
 If you are interested in a PhD position, please send an email to [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with:
 
 1. Your CV (education, publications, and relevant projects).
-2. One-page research statement describing which research direction in our group interests you most and how your past experience prepares you for this work.
+2. Language proficiency test scores (English or Japanese; Japanese is not required).
+3. One-page research statement describing which research direction in our group interests you most and how your past experience prepares you for this work.
+
+For official admission requirements and application procedures, please refer to the Osaka University Graduate School of Information Science and Technology website:
+
+- Japanese: https://www.ist.osaka-u.ac.jp/japanese/examinees/admission/  
+- English: https://www.ist.osaka-u.ac.jp/english/examinees/admission/
 
 Please use the subject line: `Application – PhD`.
 
