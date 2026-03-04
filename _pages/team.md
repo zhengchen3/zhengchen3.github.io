@@ -52,11 +52,9 @@ permalink: /team/
  </ul>
 
 <p>
-Zheng Chen is a  Specially Appointed Associate Professor, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, Osaka University.
-Before joining SANKEN, he received his Ph.D. from Nara Institute of Science and Technology (NAIST).
-His research lies at the intersection of machine learning, biomedical engineering, and biomedical data science, with a focus on EEG, disgnosis AI system, computational framework for multi-omics, and agentic AI workflows for clinical and translational research.
-His work has been published in top-tier both conference venue and Biomedicine Journal including ICLR, NeurIPS, KDD, Nature Biomedical Engineering, Scientific Data.
-He has worked closely with worldwise compute scientists, bioinformaticins and collaborators in neuroscience and oncology.
+Zheng Chen is a  Specially Appointed Associate Professor at SANKEN, Osaka University, within [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, Osaka University.
+Before joining SANKEN, he received his Ph.D. from the Nara Institute of Science and Technology (NAIST). His research lies at the intersection of machine learning, biomedical engineering, and biomedical data science, with a focus on EEG modeling, AI systems for clinical diagnosis, computational frameworks for multi-omics analysis, and agentic AI workflows for clinical and translational research. His work has been published in leading conferences and journals, including ICLR, NeurIPS, KDD, Nature Biomedical Engineering, and Scientific Data.
+He collaborates closely with computer scientists, bioinformaticians, and researchers in neuroscience and oncology.
 </p>
 
 <!-- <p>
