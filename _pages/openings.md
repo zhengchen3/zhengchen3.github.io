@@ -41,7 +41,7 @@ Please use the subject line: `Application – PhD`.
 We also recruit research assistants on projects at the interface of AI, software engineering, and computational biology. Below are two typical RA profiles.
 
 
-RA-1. You will help build agentic AI data analysis pipelines for drug discovery projects using real-world data.
+*RA-1*. You will help build agentic AI data analysis pipelines for drug discovery projects using real-world data.
 
 - Comfortable with Python and basic TypeScript/JavaScript.  
 - Some experience with LLM agents, deployment, and tool calling.  
@@ -49,7 +49,7 @@ RA-1. You will help build agentic AI data analysis pipelines for drug discovery 
 - Basic prompt engineering and database knowledge (SQL/NoSQL) are a plus.  
 
 
-RA-2. You will work on genomics, transcriptomics, proteomics, and metabolomics data analysis and integration.
+*RA-2*. You will work on genomics, transcriptomics, proteomics, and metabolomics data analysis and integration.
 
 - Experience with R and/or Python, and bioinformatics tools such as Bioconductor.  
 - Familiarity with experimental design and data generation workflows in genomics, transcriptomics, or metabolomics.  
