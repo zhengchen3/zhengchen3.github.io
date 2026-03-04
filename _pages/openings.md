@@ -6,6 +6,8 @@ sitemap: false
 permalink: /vacancies
 ---
 
+
+
 <style>
 @media (min-height: 600px) {
   #textid {
@@ -58,4 +60,4 @@ To apply for an RA position, please email [chenz@sanken.osaka-u.ac.jp](mailto:ch
 Please use one of the subject lines: `Application – RA`.
 
 
-<div style="height:40px;"></div>
+<div style="height:80px;"></div>
