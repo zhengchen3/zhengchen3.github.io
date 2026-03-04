@@ -55,7 +55,7 @@ permalink: /team/
 Dr. Zheng Chen is a Specially Appointed Associate Professor at SANKEN, The University of Osaka, within [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
 Before joining SANKEN, he received his Ph.D. from Computational Systems Biology Laboratory at Nara Institute of Science and Technology (NAIST). His research lies at the intersection of machine learning, biomedical engineering, and biomedical data science, focusing on EEG, disease prediction, clinical decision making, omics data analysis, and drug discovery. His work has been published in leading AI conferences and biomedicine journals, including ICLR, NeurIPS, Nature Biomedical Engineering, and and Scientific Data.
 He serves as an Area Chair and Program Committee member for major conferences such as KDD.
-Dr. Chen collaborates closely with computer scientists, bioinformaticians, neuroscientists, and oncologists worldwide. His research has been recognized by industry partners such as Keiji AI and Guardant Health on AI-driven biomedical data analysis.
+Dr. Chen collaborates closely with computer scientists, bioinformaticians, neuroscientists, and oncologists worldwide. His research has been recognized by industry partners including Keiji AI and Guardant Health on AI-driven biomedical data analysis.
 </p>
 
 <!-- <p>
