@@ -7,18 +7,25 @@ sitemap: false
 permalink: /
 ---
 
+Our group s led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
 We combine computer science, biomedical engineering, and bioinformatics to support clinical practice and accelerate biomarker discovery.
 Our work has produced transformative advances in EEG representation learning for brain dynamics modeling, and computational frameworks for oncology data analysis, insight generation, and automated analytical workflows.
 A central theme of our research is to formulate biomedical problems as different solvable machine learning tasks. 
 We leverage deep learning to model complex data and support decision-making, and integrate agentic AI with bioinformatics tools to automate analysis, generate hypotheses, and evaluate results computationally.
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
+*Research directions:*
+- EEG & Neuroscience — brain dynamic modeling, disease prediction, neuromorphic computing, diagnostic automation.
+- Multi-omics data & Drug Discovery — multi-omics analysis frameworks, knowledge graphs, AI-ready infrastructure, and bio-AI agents.
+
 [Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
 
-The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
-His work has been published in leading venues in machine learning and biomedicine, including NeurIPS, ICLR, and Nature Biomedical Engineering.
-*Our group is always looking for motivated PhD students and remote RAs to join the team!*
+Our group is always looking for motivated PhD students and remote RAs to join the team!
 We also welcome collaborations with industry partners in health and biomedical research.
 Feel free to reach out at [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp).
+
+<!-- The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor at SANKEN, Osaka University, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp).
+His work has been published in leading venues in machine learning and biomedicine, including NeurIPS, ICLR, and Nature Biomedical Engineering.
+
 
 
 <!-- The group is led by [Dr. Zheng Chen]({{ site.url }}{{ site.baseurl }}/team/), Specially Appointed Associate Professor, part of [Sakurai & Matsubara Lab](https://www.dm.sanken.osaka-u.ac.jp) at SANKEN, Osaka University.
