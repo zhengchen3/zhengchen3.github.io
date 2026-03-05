@@ -20,7 +20,7 @@ We design learning strategies that explicitly integrate data characteristics wit
 Selected publications – EEG representation Learning
 
 - Pradeepkumar, J., Piao, X., Chen, Z., Sun, J. “Single-Channel EEG Tokenization Through Time-Frequency Modeling”. *ICLR* (2025).
-- Kotoge, R., Chen, Z., Kimura, T., Matsubara, Y., Yanagisawa, T., Kishima, H., Sakurai, Y. “EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks”. *NeurIPS* (Spotlight) (2025).
+- Kotoge, R., Chen, Z., Kimura, T., Matsubara, ..., H., Sakurai, Y. “EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks”. *NeurIPS* (Spotlight) (2025).
 - Piao, X., Chen, Z., Murayama, T., Matsubara, Y., Sakurai, Y. 
 “Fredformer: Frequency Debiased Transformer for Time Series Forecasting.” 
 *KDD* (2024).
@@ -31,12 +31,13 @@ Selected publications – EEG representation Learning
 
 Selected publications – Brain dynamic modeling
 
-- Jia, H., Chen, Z., Zhu, L., Kotoge, R., Pradeepkumar, J., Matsubara, Y., Sun, J., Sakurai, Y., Matsubara, T. “ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks”. *ICLR* (2026).
+- Jia, H., Chen, Z., Z, L., K, R., Pradeepkumar, J., Matsubara, Y., Sun, J., Sakurai, Y., Matsubara, T. “ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks”. *ICLR* (2026).
 - Jia, H., Chen, Z., Zhu, L., Cao, X., Matsubara, Y., Matsubara, T., Sakurai, Y. “RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs.” *ArXiv* (2026).
 - Chen, Z., Zhu, L., Yang, Z., Zhang, R. 
 “Multi-Tier Platform for Cognizing Massive Electroencephalogram.” 
 *IJCAI* (2022).
 
+Selected publications – Clinical supportive system
 
 <!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
 ---
