@@ -30,7 +30,7 @@ Selected publications – EEG representation Learning
 
 Selected publications – Brain dynamic modeling
 
-- Jia, H., Chen, Z., Z, L., K, R., Pradeepkumar, J., Matsubara, Y., Sun, J., Sakurai, Y., Matsubara, T. “ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks”. *ICLR* (2026).
+- Jia, H., Chen, Z., Z, L., K, R., P, J., Matsubara, Y., Sun, J., Sakurai, Y., Matsubara, T. “ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks”. *ICLR* (2026).
 - Jia, H., Chen, Z., Zhu, L., Cao, X., Matsubara, Y., Matsubara, T., Sakurai, Y. “RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs.” *ArXiv* (2026).
 - Chen, Z., Zhu, L., Yang, Z., Zhang, R. 
 “Multi-Tier Platform for Cognizing Massive Electroencephalogram.” 
