@@ -57,7 +57,7 @@ Our team recruit RAs to work on projects aiming for publications in top AI confe
 
 To apply for an RA position, please email [chenz@sanken.osaka-u.ac.jp](mailto:chenz@sanken.osaka-u.ac.jp) with a CV highlighting technical skills and relevant projects.  
 
-Please use one of the subject lines: `Application – RA`.
+Please use the subject line: `Application – RA`.
 
 
 <div style="height:80px;"></div>
