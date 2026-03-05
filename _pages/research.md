@@ -20,7 +20,7 @@ We design learning strategies that explicitly integrate data characteristics wit
 
 
 
-### Selected publications – EEG & neuroscience
+# Selected publications – EEG & neuroscience
 
 - Chen, Z., et al. “TFM: Time-Frequency Modeling for EEG-based Clinical Prediction” _ICLR_ (2026). [arXiv:2502.16060](https://arxiv.org/abs/2502.16060)
 - Chen, Z., et al. “ODEBrain: Neural ODEs for Brain Dynamics Modeling” _ICLR_ (2026). [arXiv:2502.23285](https://arxiv.org/abs/2502.23285)
