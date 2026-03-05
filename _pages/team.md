@@ -137,7 +137,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 alt="Koki Yoshida"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Koki Yoshida</h4>
-<i>M.Sc. student, Osaka University (2025 - )</i>
+<i>M.Sc. Student, Osaka University (2025 - )</i>
 <ul style="overflow: hidden">
 <li>EEG, Foundation model</li>
 </ul>
@@ -150,7 +150,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 alt="Yiming Wu"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Yiming Wu</h4>
-<i>M.Sc. student, Osaka University (2025 - )</i>
+<i>M.Sc. Student, Osaka University (2025 - )</i>
 <ul style="overflow: hidden">
 <li>Bio AI Agent, Metabolic Modeling</li>
 </ul>
