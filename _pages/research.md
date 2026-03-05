@@ -34,7 +34,7 @@ Selected publications – Brain dynamic modeling
 - Jia, H., Chen, Z., Zhu, L., Cao, X., Matsubara, Y., Matsubara, T., Sakurai, Y. “RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs.” *ArXiv* (2026).
 
 
-Selected publications – Clinical supportive system
+Selected publications – Clinical support system
 
 - Chen, Z., Matsubara, Y., Sakurai, Y., Sun, J. “Long-Term EEG Partitioning for Seizure Onset Detection.” *AAAI* (2025). 
 - Pradeepkumar, J., Chen, Z., Sun, J. “Neural Signals Generate Clinical Notes in the Wild.” arXiv:2601.22197 (2026).  
@@ -50,11 +50,17 @@ We develop machine learning methods for integrating multi-omics data to support 
 A central theme of our work is building computational frameworks that connect molecular entities, pathways, and phenotypes through knowledge graphs and structured representations, enabling interpretable and function-aware explanations of model predictions, including molecular signicance and clinical relevance.
 In parallel, we develop agentic AI workflows that orchestrate bioinformatics tools, statistical models, and visualization components into semi-automated analysis pipelines. 
 We also work on open-source benchmarks that construct AI-ready datasets for diverse omics modalities and evaluate machine learning models across a range of biological tasks. 
-These systems enable large-scale hypothesis generation and testing—from data ingestion and quality control to downstream modeling for scientific discovery.
+We hope these systems enable hypothesis generation and testing—from data ingestion and quality control to downstream modeling for scientific discovery.
 
+Selected publications – multi-omics & computational oncology
 
-### Selected publications – multi-omics & computational oncology
+- Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers.” *ICLR* Oral (2025).
+- Kotoge, R., Yang, Z., Chen, Z., Dong, Y., Matsubara, Y., Sun, J., Sakurai, Y. “ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases.” *AAAI* (2025).
+- Gao, P., Chen, Z., Liu, X., Chen, P., Matsubara, Y., Sakurai, Y. “Antimicrobial Resistance Recommendations via Electronic Health Records with Graph Representation and Patient Population Modeling.” *Computer Methods and Programs in Biomedicine* (2025).
+- Chen, Z., Yang, Z., Zhu, L., Gao, P., Matsubara, T., Kanaya, S., Altaf-Ul-Amin, M. “Learning Vector-Quantized Representation for Cancer Subtype Identification.” *Computer Methods and Programs in Biomedicine*, vol (2023).
 
-- Wang, Z., Danek, B., Yang, Z., Chen, Z., Sun, J. “Can Large Language Models Replace Data Scientists in Biomedical Research?” _Nat. Biomed. Eng._ (2025). [arXiv:2410.21591](https://arxiv.org/abs/2410.21591)
-- Chen, Z., et al. “MLOmics: Foundation Models for Multi-omics Integration” _Nat. Sci. Data_ (2025). [DOI:10.1038/s41597-025-05235-x](https://doi.org/10.1038/s41597-025-05235-x)
-- Chen, Z., et al. “ExPath: Explainable Computational Pathology with Multi-modal Data” _AAAI_ (2026). [arXiv:2502.18026](https://arxiv.org/abs/2502.18026)
+Selected publications – Biomedicine AI Infra and Agents
+
+- Wang, Z., Danek, B., Yang, Z., Chen, Z., Sun, J. “Can Large Language Models Replace Data Scientists in Biomedical Research?” *Nature Biomedical Engineering* (2025).
+- Yang, Z., Kotoge, R., Piao, X., Chen, Z., Zhu, L., Gao, P., Matsubara, Y., Sakurai, Y., Sun, J. “MLOmics: Cancer Multi-Omics Database for Machine Learning.” *Scientific Data* (2025).
+
