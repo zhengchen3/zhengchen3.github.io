@@ -8,14 +8,14 @@ permalink: /research/
 
 
 
-## EEG representation learning, brain modeling, and clinical support
+## EEG and Clinical AI System
 
-![EEG overview]({{ site.url }}{{ site.baseurl }}/images/respic/eegproject.png){: style="max-width: 66%; height: auto; display: block; margin: 0 auto 12px auto;"}
+![EEG overview]({{ site.url }}{{ site.baseurl }}/images/respic/eegproject.png){: style="max-width: 66%; height: auto; display: block; margin: 30px auto 30px auto;"}
 
 We develop methods for learning robust, interpretable representations from EEG and related biosignals.
 Our work focuses on **EEG representation learning**, **brain dynamics modeling** across time scales, and **clinical decision support** for neurological and psychiatric conditions. We capture both transient events and long-range dependencies, and use these representations to build predictive models for diagnosis, prognosis, and monitoring.
 
-Beyond benchmark performance, we emphasize models that are stable across recording sites and cohorts, and that can provide insight into underlying neurophysiology. We collaborate with clinicians to design decision support systems that integrate EEG-based biomarkers with other clinical information.
+
 
 ### Selected publications – EEG & neuroscience
 
@@ -27,7 +27,7 @@ Beyond benchmark performance, we emphasize models that are stable across recordi
 
 ## Multi-omics learning, knowledge graphs, and agentic AI workflows
 
-![Multiomics overview]({{ site.url }}{{ site.baseurl }}/images/respic/drugproject.png){: style="max-width: 66%; height: auto; display: block; margin: 0 auto 12px auto;"}
+![Multiomics overview]({{ site.url }}{{ site.baseurl }}/images/respic/drugproject.png){: style="max-width: 56%; height: auto; display: block; margin: 0 auto 12px auto;"}
 
 We build machine learning methods for integrating genomics, transcriptomics, proteomics, metabolomics, and clinical data to support biomarker discovery and patient stratification. A central theme is **multi-omics learning** that connects molecular entities, pathways, and phenotypes. We use **knowledge graphs** and structured representations to provide interpretable, mechanism-linked explanations of model predictions.
 
