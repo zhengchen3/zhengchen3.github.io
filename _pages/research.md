@@ -41,6 +41,7 @@ Selected publications – Clinical support system
 
 <!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
 
+<div style="height:80px;"></div>
 
 ## Multi-omics and Drug discovery
 
@@ -65,3 +66,4 @@ Selected publications – Biomedicine AI Infra and Agents
 - Wang, Z., Danek, B., Yang, Z., Chen, Z., Sun, J. “Can Large Language Models Replace Data Scientists in Biomedical Research?” *Nature Biomedical Engineering* (2025).
 - Yang, Z., Kotoge, R., Piao, X., Chen, Z., Zhu, L., Gao, P., Matsubara, Y., Sakurai, Y., Sun, J. “MLOmics: Cancer Multi-Omics Database for Machine Learning.” *Scientific Data* (2025).
 
+<div style="height:80px;"></div>
