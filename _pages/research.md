@@ -57,6 +57,7 @@ Selected publications – multi-omics & computational oncology
 - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers.” *ICLR* Oral (2025).
 - Kotoge, R., Yang, Z., Chen, Z., Dong, Y., Matsubara, Y., Sun, J., Sakurai, Y. “ExPath: Towards Explaining Targeted Pathways for Biological Knowledge Bases.” *AAAI* (2025).
 - Gao, P., Chen, Z., Liu, X., Chen, P., Matsubara, Y., Sakurai, Y. “Antimicrobial Resistance Recommendations via Electronic Health Records with Graph Representation and Patient Population Modeling.” *Computer Methods and Programs in Biomedicine* (2025).
+- Chen, Z., Zhu, L., Yang, Z., Matsubara, T. “Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization.” *ECML-PKDD*, (2023).
 - Chen, Z., Yang, Z., Zhu, L., Gao, P., Matsubara, T., Kanaya, S., Altaf-Ul-Amin, M. “Learning Vector-Quantized Representation for Cancer Subtype Identification.” *Computer Methods and Programs in Biomedicine*, vol (2023).
 
 Selected publications – Biomedicine AI Infra and Agents
