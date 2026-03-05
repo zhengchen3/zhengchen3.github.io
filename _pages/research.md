@@ -61,7 +61,7 @@ Selected publications – multi-omics & computational oncology
 - Chen, Z., Zhu, L., Yang, Z., Matsubara, T. “Automated Cancer Subtyping via Vector Quantization Mutual Information Maximization.” *ECML-PKDD*, (2023).
 - Chen, Z., Yang, Z., Zhu, L., Gao, P., Matsubara, T., Kanaya, S., Altaf-Ul-Amin, M. “Learning Vector-Quantized Representation for Cancer Subtype Identification.” *Computer Methods and Programs in Biomedicine*, vol (2023).
 
-Selected publications – Biomedicine AI Infra and Agents
+Selected publications – Benchmark amd Biomedicine AI Agents
 
 - Wang, Z., Danek, B., Yang, Z., Chen, Z., Sun, J. “Can Large Language Models Replace Data Scientists in Biomedical Research?” *Nature Biomedical Engineering* (2025).
 - Yang, Z., Kotoge, R., Piao, X., Chen, Z., Zhu, L., Gao, P., Matsubara, Y., Sakurai, Y., Sun, J. “MLOmics: Cancer Multi-Omics Database for Machine Learning.” *Scientific Data* (2025).
