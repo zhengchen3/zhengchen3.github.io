@@ -39,11 +39,10 @@ Selected publications – Brain dynamic modeling
 Selected publications – Clinical supportive system
 
 - Chen, Z., Matsubara, Y., Sakurai, Y., Sun, J. “Long-Term EEG Partitioning for Seizure Onset Detection.” *AAAI* (2025). 
-- Pradeepkumar, J., Chen, Z., Sun, J.  
-“Neural Signals Generate Clinical Notes in the Wild.” arXiv:2601.22197 (2026).  
+- Pradeepkumar, J., Chen, Z., Sun, J. “Neural Signals Generate Clinical Notes in the Wild.” arXiv:2601.22197 (2026).  
 - Chen, Z., Yang, Z., Zhu, L., Chen, W., Tamura, T., Ono, N., Altaf-Ul-Amin, M. D., Kanaya, S., Huang, M. "Automated Sleep Staging via Parallel Frequency-Cut Attention." *IEEE Trans on Neural Systems and Rehabilitation Engineering*  (2023)
 <!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
----
+
 
 ## Multi-omics learning, knowledge graphs, and agentic AI workflows
 
