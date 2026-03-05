@@ -12,8 +12,11 @@ permalink: /research/
 
 ![EEG overview]({{ site.url }}{{ site.baseurl }}/images/respic/eegproject.png){: style="max-width: 66%; height: auto; display: block; margin: 30px auto 30px auto;"}
 
-We develop methods for learning robust, interpretable representations from EEG and related biosignals.
-Our work focuses on **EEG representation learning**, **brain dynamics modeling** across time scales, and **clinical decision support** for neurological and psychiatric conditions. We capture both transient events and long-range dependencies, and use these representations to build predictive models for diagnosis, prognosis, and monitoring.
+We work on bridging EEG signals and machine learning to develop models that understand how brain activity reflects human physiological states and health. 
+Our research focuses on EEG representation learning, brain dynamics modeling, disease prediction, and clinical decision support.
+Our methods are grounded in the intrinsic properties of EEG data, such as frequency structures and transient waveforms. 
+We design learning strategies that explicitly integrate data characteristics with prior knowledge from neuroscience and clinical practice (e.g., domain specifications), enabling the development of reliable and trustworthy clinical AI systems.
+
 
 
 
