@@ -14,7 +14,7 @@ A central theme of our research is to formulate biomedical problems as different
 We leverage deep learning to model complex data and support decision-making, and integrate agentic AI with bioinformatics tools to automate analysis, generate hypotheses, and evaluate results computationally.
 Our work is grounded in prior knowledge and practical constraints, ensuring translational relevance.
 *Research directions:*
-- EEG & Clinical AI system — brain dynamic modeling, disease prediction, neuromorphic computing.
+- EEG & Clinical AI system — data representation, brain dynamic modeling, disease prediction, neuromorphic computing.
 - Multi-omics & Drug discovery — omics analysis frameworks, knowledge graph, AI-ready infrastructure, workflow automation.
 
 [Read more about our research]({{ site.url }}{{ site.baseurl }}/research).
