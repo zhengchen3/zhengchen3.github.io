@@ -17,14 +17,27 @@ Our research focuses on EEG representation learning, brain dynamics modeling, di
 Our methods are grounded in the intrinsic properties of EEG data, such as frequency structures and transient waveforms. 
 We design learning strategies that explicitly integrate data characteristics with prior knowledge from neuroscience and clinical practice (e.g., domain specifications), enabling the development of reliable and trustworthy clinical AI systems.
 
+Selected publications – EEG representation Learning
+
+- Pradeepkumar, J., Piao, X., Chen, Z., Sun, J. “Single-Channel EEG Tokenization Through Time-Frequency Modeling”. *ICLR* (2025).
+- Kotoge, R., Chen, Z., Kimura, T., Matsubara, Y., Yanagisawa, T., Kishima, H., Sakurai, Y. “EvoBrain: Dynamic Multi-Channel EEG Graph Modeling for Time-Evolving Brain Networks”. *NeurIPS* (Spotlight) (2025).
+- Piao, X., Chen, Z., Murayama, T., Matsubara, Y., Sakurai, Y. 
+“Fredformer: Frequency Debiased Transformer for Time Series Forecasting.” 
+*KDD* (2024).
+- Chen, Z., Yang, Z., Zhu, L., Chen, W., Tamura, T., Ono, N., Altaf-Ul-Amin, M. D., Kanaya, S., Huang, M. 
+"Automated Sleep Staging via Parallel Frequency-Cut Attention." 
+*IEEE Trans on Neural Systems and Rehabilitation Engineering*  (2023)
 
 
+Selected publications – Brain dynamic modeling
 
-# Selected publications – EEG & neuroscience
+- Jia, H., Chen, Z., Zhu, L., Kotoge, R., Pradeepkumar, J., Matsubara, Y., Sun, J., Sakurai, Y., Matsubara, T. “ODEBrain: Continuous-Time EEG Graph for Modeling Dynamic Brain Networks”. *ICLR* (2026).
+- Jia, H., Chen, Z., Zhu, L., Cao, X., Matsubara, Y., Matsubara, T., Sakurai, Y. “RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs.” *ArXiv* (2026).
+- Chen, Z., Zhu, L., Yang, Z., Zhang, R. 
+“Multi-Tier Platform for Cognizing Massive Electroencephalogram.” 
+*IJCAI* (2022).
 
-- Chen, Z., et al. “TFM: Time-Frequency Modeling for EEG-based Clinical Prediction” _ICLR_ (2026). [arXiv:2502.16060](https://arxiv.org/abs/2502.16060)
-- Chen, Z., et al. “ODEBrain: Neural ODEs for Brain Dynamics Modeling” _ICLR_ (2026). [arXiv:2502.23285](https://arxiv.org/abs/2502.23285)
-- Chen, Z., et al. “EvoBrain: Self-evolving EEG Representation Learning for Brain State Modeling” _NeurIPS_ [Spotlight] (2025). [arXiv:2509.15857](https://arxiv.org/abs/2509.15857)
+
 <!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
 ---
 
