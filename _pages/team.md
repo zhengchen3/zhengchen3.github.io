@@ -158,9 +158,9 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 
 <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zhangyu.jpg"
-alt="Yiming Wu"
+alt="Zhangyu Wang"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
-<h4>Yiming Wu</h4>
+<h4>Zhangyu Wang</h4>
 <i>Undergraduate Student, University of Southern California (2026 - )</i>
 <ul style="overflow: hidden">
 <li>Knowledge graph, EEG</li>
