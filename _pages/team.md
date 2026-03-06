@@ -157,7 +157,7 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 </div>
 
 <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/koki.jpg"
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/zhangyu.jpg"
 alt="Yiming Wu"
 style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
 <h4>Yiming Wu</h4>
