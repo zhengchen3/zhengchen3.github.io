@@ -41,7 +41,7 @@ Selected publications – Clinical support system
 
 <!-- - Yang, Z., Kotoge, R., Chen, Z., et al. “GeSubNet: Graph Subnetwork Discovery for Neural Biomarkers” _ICLR_ [Oral] (2025). [arXiv:2410.13178](https://arxiv.org/abs/2410.13178) -->
 
-<div style="height:80px;"></div>
+<div style="height:40px;"></div>
 
 ## Multi-omics and Drug discovery
 
