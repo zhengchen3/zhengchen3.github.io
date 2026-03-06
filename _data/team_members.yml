@@ -43,6 +43,13 @@
   number_educ: 1
   education1: LLM / Agent for bioinformatics
 
+- name: Zhangyu Wang
+  photo: zhangyu.jpg
+  info: Undergraduate Student, University of Southern California (2026 - )
+  email:
+  number_educ: 1
+  education1: Knowledge graph/ EEG
+
 
 - name: "Joining us?"
   photo: photo_dummy.png
