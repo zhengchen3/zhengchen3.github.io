@@ -157,6 +157,19 @@ style="float:left; margin-right:16px; width:175px; height:175px; border-radius:5
 </div>
 </div>
 
+<div class="row">
+<div class="col-sm-6 clearfix">
+<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/yiming.jpg"
+alt="Yiming Wu"
+style="float:left; margin-right:16px; width:175px; height:175px; border-radius:50%; object-fit:cover;" />
+<h4>Zhangyu Wang</h4>
+<i>Undergraduate Student, University of Southern California (2026 - )</i>
+<ul style="overflow: hidden">
+<li>Knowledge graph, EEG</li>
+</ul>
+</div>
+</div>
+
 <h1 class="section-title">Alumni</h1>
 
 <div class="row">
