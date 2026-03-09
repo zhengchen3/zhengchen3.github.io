@@ -56,7 +56,7 @@ Dr. Zheng Chen is a Specially Appointed Associate Professor at SANKEN, The Unive
 Before joining SANKEN, he received his Ph.D. degree from Computational Systems Biology Laboratory at Nara Institute of Science and Technology (NAIST). His research lies at the intersection of machine learning, biomedical engineering, and biomedical data science, focusing on EEG, disease prediction, clinical decision making, omics data analysis, and drug discovery. His work has been published in leading AI conferences and biomedicine journals, including ICLR, NeurIPS, KDD, and Nature Biomedical Engineering.
 <!-- He serves as an Area Chair and Program Committee member for major conferences such as KDD. -->
 Dr. Chen collaborates closely with computer scientists, oncologists, bioinformaticians, and neuroscientists from institutions worldwide, including the University of Illinois Urbana–Champaign (UIUC), the University of Tokyo, Harvard Medical School, and RIKEN.
-His research has also been recognized by industry partners including Keiji AI and Guardant Health on AI-driven biomedical data analysis.
+His research has also been recognized by industry partners including Keiji AI, Guardant Health, and DLeader on AI-driven biomedical data analysis.
 </p>
 
 <!-- <p>
